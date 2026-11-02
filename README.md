@@ -27,9 +27,17 @@ Floorplan images, floor-layout images, orientation, apartment type classificatio
 
 ## Orbit images
 
-The current Framer component `MillGardenOrbit.tsx` uses 80 uploaded Framer image assets, with four checkpoints at frames 0, 20, 40 and 60. It is not configured to read images or apartment JSON from this Git repository. The original JPEGs are stored at `data/Orbit SEQ/V01/orbit0000.jpg` through `orbit0079.jpg`. `data/orbit-sequence.json` records each local SHA-256 and the corresponding Framer asset reference; temporary upload URLs are excluded.
+The current Framer component `MillGardenOrbit.tsx` uses 80 uploaded Framer image assets, with four checkpoints at frames 0, 20, 40 and 60. Orbit image hosting remains in Framer. The original JPEGs are stored at `data/Orbit SEQ/V01/orbit0000.jpg` through `orbit0079.jpg`. `data/orbit-sequence.json` records each local SHA-256 and the corresponding Framer asset reference; temporary upload URLs are excluded.
 
-The mapping boxes still need to be positioned around the actual apartments, followed by aligned color-mask renders. Adding data to GitHub does not by itself connect these masks to the Framer viewer. A private GitHub repository also cannot serve unauthenticated public JSON requests directly.
+The mapping boxes still need to be positioned around the actual apartments, followed by aligned color-mask renders. Facade hover/click selection is not active until those masks exist.
+
+## Framer JSON connection
+
+The repository is public, as approved, so visitors can read its JSON without credentials. The component source is saved in `framer/MillGardenOrbit.tsx`. Its `Apartment JSON`, `Details JSON` and `Mask colors JSON` controls point to the matching files under `https://raw.githubusercontent.com/UnbuiltMarket/mill-garden/main/data/`.
+
+The viewer loads the apartment list and palette together and validates apartment IDs and colors. Building/floor filters and apartment selection show areas, room count, source price and source availability. Room-by-room details load on request. Data refreshes every five minutes while visible and when the visitor returns to the page; HTTP caching is revalidated. Failed data requests offer a retry and do not stop the orbit player. There are no GitHub credentials in the client component.
+
+The connection is saved in the Framer draft. Publishing the site is a separate action. Static layout previews may show loading placeholders until the requests finish. Apartment floorplan images remain unavailable; the room list uses the buyer booklet's actual area data.
 
 ## Rebuild data
 
