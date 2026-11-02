@@ -1,0 +1,707 @@
+{
+  "project": "Mill Garden",
+  "paletteVersion": 1,
+  "count": 53,
+  "source": "Buyer booklet, apartment schedules pages 5-6",
+  "stagingOriginCm": [
+    33523,
+    12000,
+    0
+  ],
+  "boxDimensionsCm": {
+    "width": 1000,
+    "length": 500,
+    "height": 315
+  },
+  "apartments": [
+    {
+      "apartmentId": "1-01",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 1,
+      "objectName": "MG_MASK_1-01",
+      "rgb": [
+        240,
+        48,
+        48
+      ],
+      "hex": "#F03030",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-02",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 2,
+      "objectName": "MG_MASK_1-02",
+      "rgb": [
+        48,
+        240,
+        240
+      ],
+      "hex": "#30F0F0",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-03",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 3,
+      "objectName": "MG_MASK_1-03",
+      "rgb": [
+        48,
+        48,
+        112
+      ],
+      "hex": "#303070",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-04",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 4,
+      "objectName": "MG_MASK_1-04",
+      "rgb": [
+        112,
+        240,
+        48
+      ],
+      "hex": "#70F030",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-05",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 5,
+      "objectName": "MG_MASK_1-05",
+      "rgb": [
+        240,
+        112,
+        240
+      ],
+      "hex": "#F070F0",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-06",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 6,
+      "objectName": "MG_MASK_1-06",
+      "rgb": [
+        112,
+        48,
+        240
+      ],
+      "hex": "#7030F0",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-07",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 7,
+      "objectName": "MG_MASK_1-07",
+      "rgb": [
+        176,
+        240,
+        176
+      ],
+      "hex": "#B0F0B0",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-08",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 8,
+      "objectName": "MG_MASK_1-08",
+      "rgb": [
+        240,
+        176,
+        48
+      ],
+      "hex": "#F0B030",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-09",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 9,
+      "objectName": "MG_MASK_1-09",
+      "rgb": [
+        48,
+        176,
+        112
+      ],
+      "hex": "#30B070",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-10",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 10,
+      "objectName": "MG_MASK_1-10",
+      "rgb": [
+        112,
+        112,
+        48
+      ],
+      "hex": "#707030",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-11",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 11,
+      "objectName": "MG_MASK_1-11",
+      "rgb": [
+        48,
+        112,
+        176
+      ],
+      "hex": "#3070B0",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-12",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 12,
+      "objectName": "MG_MASK_1-12",
+      "rgb": [
+        112,
+        176,
+        176
+      ],
+      "hex": "#70B0B0",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-13",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 13,
+      "objectName": "MG_MASK_1-13",
+      "rgb": [
+        176,
+        48,
+        112
+      ],
+      "hex": "#B03070",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-14",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 14,
+      "objectName": "MG_MASK_1-14",
+      "rgb": [
+        176,
+        112,
+        176
+      ],
+      "hex": "#B070B0",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-15",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 15,
+      "objectName": "MG_MASK_1-15",
+      "rgb": [
+        176,
+        176,
+        112
+      ],
+      "hex": "#B0B070",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-16",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 16,
+      "objectName": "MG_MASK_1-16",
+      "rgb": [
+        176,
+        176,
+        240
+      ],
+      "hex": "#B0B0F0",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-17",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 17,
+      "objectName": "MG_MASK_1-17",
+      "rgb": [
+        240,
+        48,
+        176
+      ],
+      "hex": "#F030B0",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-18",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 18,
+      "objectName": "MG_MASK_1-18",
+      "rgb": [
+        240,
+        112,
+        112
+      ],
+      "hex": "#F07070",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "1-19",
+      "buildingOrPhase": "1",
+      "apartmentNumber": 19,
+      "objectName": "MG_MASK_1-19",
+      "rgb": [
+        240,
+        176,
+        176
+      ],
+      "hex": "#F0B0B0",
+      "layer": "MG_MASKS_1"
+    },
+    {
+      "apartmentId": "2-01",
+      "buildingOrPhase": "2",
+      "apartmentNumber": 1,
+      "objectName": "MG_MASK_2-01",
+      "rgb": [
+        240,
+        240,
+        112
+      ],
+      "hex": "#F0F070",
+      "layer": "MG_MASKS_2"
+    },
+    {
+      "apartmentId": "2-02",
+      "buildingOrPhase": "2",
+      "apartmentNumber": 2,
+      "objectName": "MG_MASK_2-02",
+      "rgb": [
+        240,
+        240,
+        240
+      ],
+      "hex": "#F0F0F0",
+      "layer": "MG_MASKS_2"
+    },
+    {
+      "apartmentId": "2-03",
+      "buildingOrPhase": "2",
+      "apartmentNumber": 3,
+      "objectName": "MG_MASK_2-03",
+      "rgb": [
+        48,
+        48,
+        176
+      ],
+      "hex": "#3030B0",
+      "layer": "MG_MASKS_2"
+    },
+    {
+      "apartmentId": "2-04",
+      "buildingOrPhase": "2",
+      "apartmentNumber": 4,
+      "objectName": "MG_MASK_2-04",
+      "rgb": [
+        48,
+        48,
+        240
+      ],
+      "hex": "#3030F0",
+      "layer": "MG_MASKS_2"
+    },
+    {
+      "apartmentId": "2-05",
+      "buildingOrPhase": "2",
+      "apartmentNumber": 5,
+      "objectName": "MG_MASK_2-05",
+      "rgb": [
+        48,
+        112,
+        48
+      ],
+      "hex": "#307030",
+      "layer": "MG_MASKS_2"
+    },
+    {
+      "apartmentId": "2-06",
+      "buildingOrPhase": "2",
+      "apartmentNumber": 6,
+      "objectName": "MG_MASK_2-06",
+      "rgb": [
+        48,
+        112,
+        112
+      ],
+      "hex": "#307070",
+      "layer": "MG_MASKS_2"
+    },
+    {
+      "apartmentId": "2-07",
+      "buildingOrPhase": "2",
+      "apartmentNumber": 7,
+      "objectName": "MG_MASK_2-07",
+      "rgb": [
+        48,
+        112,
+        240
+      ],
+      "hex": "#3070F0",
+      "layer": "MG_MASKS_2"
+    },
+    {
+      "apartmentId": "2-08",
+      "buildingOrPhase": "2",
+      "apartmentNumber": 8,
+      "objectName": "MG_MASK_2-08",
+      "rgb": [
+        48,
+        176,
+        48
+      ],
+      "hex": "#30B030",
+      "layer": "MG_MASKS_2"
+    },
+    {
+      "apartmentId": "3-01",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 1,
+      "objectName": "MG_MASK_3-01",
+      "rgb": [
+        48,
+        176,
+        176
+      ],
+      "hex": "#30B0B0",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-02",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 2,
+      "objectName": "MG_MASK_3-02",
+      "rgb": [
+        48,
+        176,
+        240
+      ],
+      "hex": "#30B0F0",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-03",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 3,
+      "objectName": "MG_MASK_3-03",
+      "rgb": [
+        48,
+        240,
+        48
+      ],
+      "hex": "#30F030",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-04",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 4,
+      "objectName": "MG_MASK_3-04",
+      "rgb": [
+        48,
+        240,
+        112
+      ],
+      "hex": "#30F070",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-05",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 5,
+      "objectName": "MG_MASK_3-05",
+      "rgb": [
+        48,
+        240,
+        176
+      ],
+      "hex": "#30F0B0",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-06",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 6,
+      "objectName": "MG_MASK_3-06",
+      "rgb": [
+        112,
+        48,
+        48
+      ],
+      "hex": "#703030",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-07",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 7,
+      "objectName": "MG_MASK_3-07",
+      "rgb": [
+        112,
+        48,
+        112
+      ],
+      "hex": "#703070",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-08",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 8,
+      "objectName": "MG_MASK_3-08",
+      "rgb": [
+        112,
+        48,
+        176
+      ],
+      "hex": "#7030B0",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-09",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 9,
+      "objectName": "MG_MASK_3-09",
+      "rgb": [
+        112,
+        112,
+        112
+      ],
+      "hex": "#707070",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-10",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 10,
+      "objectName": "MG_MASK_3-10",
+      "rgb": [
+        112,
+        112,
+        176
+      ],
+      "hex": "#7070B0",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-11",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 11,
+      "objectName": "MG_MASK_3-11",
+      "rgb": [
+        112,
+        112,
+        240
+      ],
+      "hex": "#7070F0",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "3-12",
+      "buildingOrPhase": "3",
+      "apartmentNumber": 12,
+      "objectName": "MG_MASK_3-12",
+      "rgb": [
+        112,
+        176,
+        48
+      ],
+      "hex": "#70B030",
+      "layer": "MG_MASKS_3"
+    },
+    {
+      "apartmentId": "4-01",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 1,
+      "objectName": "MG_MASK_4-01",
+      "rgb": [
+        112,
+        176,
+        112
+      ],
+      "hex": "#70B070",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-02",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 2,
+      "objectName": "MG_MASK_4-02",
+      "rgb": [
+        112,
+        176,
+        240
+      ],
+      "hex": "#70B0F0",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-03",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 3,
+      "objectName": "MG_MASK_4-03",
+      "rgb": [
+        112,
+        240,
+        112
+      ],
+      "hex": "#70F070",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-04",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 4,
+      "objectName": "MG_MASK_4-04",
+      "rgb": [
+        112,
+        240,
+        176
+      ],
+      "hex": "#70F0B0",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-05",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 5,
+      "objectName": "MG_MASK_4-05",
+      "rgb": [
+        112,
+        240,
+        240
+      ],
+      "hex": "#70F0F0",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-06",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 6,
+      "objectName": "MG_MASK_4-06",
+      "rgb": [
+        176,
+        48,
+        48
+      ],
+      "hex": "#B03030",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-07",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 7,
+      "objectName": "MG_MASK_4-07",
+      "rgb": [
+        176,
+        48,
+        176
+      ],
+      "hex": "#B030B0",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-08",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 8,
+      "objectName": "MG_MASK_4-08",
+      "rgb": [
+        176,
+        48,
+        240
+      ],
+      "hex": "#B030F0",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-09",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 9,
+      "objectName": "MG_MASK_4-09",
+      "rgb": [
+        176,
+        112,
+        48
+      ],
+      "hex": "#B07030",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-10",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 10,
+      "objectName": "MG_MASK_4-10",
+      "rgb": [
+        176,
+        112,
+        112
+      ],
+      "hex": "#B07070",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-11",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 11,
+      "objectName": "MG_MASK_4-11",
+      "rgb": [
+        176,
+        112,
+        240
+      ],
+      "hex": "#B070F0",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-12",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 12,
+      "objectName": "MG_MASK_4-12",
+      "rgb": [
+        176,
+        176,
+        48
+      ],
+      "hex": "#B0B030",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-13",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 13,
+      "objectName": "MG_MASK_4-13",
+      "rgb": [
+        176,
+        176,
+        176
+      ],
+      "hex": "#B0B0B0",
+      "layer": "MG_MASKS_4"
+    },
+    {
+      "apartmentId": "4-14",
+      "buildingOrPhase": "4",
+      "apartmentNumber": 14,
+      "objectName": "MG_MASK_4-14",
+      "rgb": [
+        176,
+        240,
+        48
+      ],
+      "hex": "#B0F030",
+      "layer": "MG_MASKS_4"
+    }
+  ]
+}

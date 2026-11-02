@@ -1,0 +1,10 @@
+/input files/
+/output/
+/tmp/
+__pycache__/
+*.pyc
+*.max
+*.max.bak
+.DS_Store
+Thumbs.db
+desktop.ini

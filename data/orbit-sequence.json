@@ -1,0 +1,897 @@
+{
+  "schemaVersion": "1.0",
+  "projectId": "mill-garden",
+  "frameCount": 80,
+  "checkpoints": [
+    0,
+    20,
+    40,
+    60
+  ],
+  "currentHosting": "Framer uploaded image assets",
+  "githubConnectedToViewer": false,
+  "componentFile": "MillGardenOrbit.tsx",
+  "framerProjectUrl": "https://framer.com/projects/xebaysuAv4bEjSW6H2hh",
+  "frames": [
+    {
+      "index": 0,
+      "path": "data/Orbit SEQ/V01/orbit0000.jpg",
+      "sha256": "92527e8911c1690cfb254249591081faef85c08001919be95fd77e1f9e17bc27",
+      "bytes": 249986,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,29x6iaENv8jnU233vnSFPzDhYzk.jpg"
+    },
+    {
+      "index": 1,
+      "path": "data/Orbit SEQ/V01/orbit0001.jpg",
+      "sha256": "2313f6a7ed3dd910b20f7049e27a959ff0ae3f3cf33a05cc959833f57f10cd33",
+      "bytes": 252712,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,rTaqKVKp4OVYrfKEEfEHJn83aHc.jpg"
+    },
+    {
+      "index": 2,
+      "path": "data/Orbit SEQ/V01/orbit0002.jpg",
+      "sha256": "a07198c39a3dc4c3e094fa130aeb0165388d5a559aaa284943c6667e3ed37ec7",
+      "bytes": 252546,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,uVwgr9fmzp8KzUPy5ZhJQLxuLZ4.jpg"
+    },
+    {
+      "index": 3,
+      "path": "data/Orbit SEQ/V01/orbit0003.jpg",
+      "sha256": "b491c8579fbb54f1027abc7f714d4d5f4161741255aeeb0e3212a8c184548ff2",
+      "bytes": 250149,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,BteXW5KJpV2k3fFKywZwKkTyMsE.jpg"
+    },
+    {
+      "index": 4,
+      "path": "data/Orbit SEQ/V01/orbit0004.jpg",
+      "sha256": "fd0f31bad6890a2e17cd7951d227ab97b5d60f2a81d877b0ae9c0426eb722485",
+      "bytes": 245889,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,4nxpHDFKttNi3lu7wHyUnYOxWU.jpg"
+    },
+    {
+      "index": 5,
+      "path": "data/Orbit SEQ/V01/orbit0005.jpg",
+      "sha256": "b06b4683de4a752bc4200c3d7ef94978915dedd04e3e89e3a0d5ecb9e40e48cd",
+      "bytes": 239453,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,GmH562boEaYUS7lcUDDNXWBE6x0.jpg"
+    },
+    {
+      "index": 6,
+      "path": "data/Orbit SEQ/V01/orbit0006.jpg",
+      "sha256": "fb3258d94690eee0c03652384ffa82aacc3387b49371c5d401bfade26261faf5",
+      "bytes": 234039,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,XCQ2rjEXDQk9227740SWdxObYTk.jpg"
+    },
+    {
+      "index": 7,
+      "path": "data/Orbit SEQ/V01/orbit0007.jpg",
+      "sha256": "93ded3b57461b15f46937526f63f91ce1d6b0b478f2d064440aac5e1dae8a973",
+      "bytes": 232485,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,0XOLHRKFfvaCUlu89IznJd8qBmk.jpg"
+    },
+    {
+      "index": 8,
+      "path": "data/Orbit SEQ/V01/orbit0008.jpg",
+      "sha256": "44c29bb016a2eb606b47789c9d6a5d1af5fdbf310baa2ff395eed66d9776c2ce",
+      "bytes": 236807,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,Cx7Pvb89xOLmwy3BTCiDGQo.jpg"
+    },
+    {
+      "index": 9,
+      "path": "data/Orbit SEQ/V01/orbit0009.jpg",
+      "sha256": "3a6f3fae5109344b64bb41e0d355ec5037b59fb9723587a026a79d8ca8c3702a",
+      "bytes": 245271,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,YuxM7qJZN0RSrF2dD7QKFHucTM.jpg"
+    },
+    {
+      "index": 10,
+      "path": "data/Orbit SEQ/V01/orbit0010.jpg",
+      "sha256": "6e0e3135102ec8e7e7df119c7c44eaf6031c2787aa9722ba9bb1b97022f27167",
+      "bytes": 251606,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,GcTZmi0wo37gKVFgKY4tU3UHCM.jpg"
+    },
+    {
+      "index": 11,
+      "path": "data/Orbit SEQ/V01/orbit0011.jpg",
+      "sha256": "7c569945cb906ca450a1789c5ecb931eaecca2c7dfe073639015bc4078f7dc98",
+      "bytes": 253975,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,tsYwKUIRRYB5dRQMn7jFPfizBw.jpg"
+    },
+    {
+      "index": 12,
+      "path": "data/Orbit SEQ/V01/orbit0012.jpg",
+      "sha256": "ca22daa63f4f33f155bd9ba8e805998d548022a762d7ed18fdaf3adc88404608",
+      "bytes": 256547,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,5i18ez2ccw7KawxNP3vHR9pGWo.jpg"
+    },
+    {
+      "index": 13,
+      "path": "data/Orbit SEQ/V01/orbit0013.jpg",
+      "sha256": "c2e2888566deaba675296ec8ebac80cfe83cb2ad2953249b396e065ec0b9c894",
+      "bytes": 255565,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,n5HUGgAFTmVQQ8psE9DVrYf8Ir8.jpg"
+    },
+    {
+      "index": 14,
+      "path": "data/Orbit SEQ/V01/orbit0014.jpg",
+      "sha256": "f70819fe8f6fffcbcd2e76a5c3cce14ebd71a95d87c328f561e5c252c0978720",
+      "bytes": 252041,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,9aFyKSulFlUinZRVX8fGqU5yRNc.jpg"
+    },
+    {
+      "index": 15,
+      "path": "data/Orbit SEQ/V01/orbit0015.jpg",
+      "sha256": "fbd356be4bee69c7ebf93a25187b0739859a7aa387083e4c72c36362056e55d9",
+      "bytes": 247426,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,rpDuFK6D1sJ5qzsYQ6jQ29GROTI.jpg"
+    },
+    {
+      "index": 16,
+      "path": "data/Orbit SEQ/V01/orbit0016.jpg",
+      "sha256": "d55e3eef2e5effdc6e923f784842d87941b6f131f6dd524bc6d5d32edb6be587",
+      "bytes": 244741,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,RHg29e0NldzolXvaejF7l8ELQ.jpg"
+    },
+    {
+      "index": 17,
+      "path": "data/Orbit SEQ/V01/orbit0017.jpg",
+      "sha256": "a3791495673d701a3ad78e409d207ca1a1b158b25179dfc130cad69766b8a260",
+      "bytes": 239689,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,sstvtqODKDOXpji9oggcWuzmik.jpg"
+    },
+    {
+      "index": 18,
+      "path": "data/Orbit SEQ/V01/orbit0018.jpg",
+      "sha256": "baf2dd115f61e1469694fb84e1e40a233eebef64cf0b3faa1a1f61e7b7424e53",
+      "bytes": 239099,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,l6euHiDxBsEArDIEthXyPSt8.jpg"
+    },
+    {
+      "index": 19,
+      "path": "data/Orbit SEQ/V01/orbit0019.jpg",
+      "sha256": "0b03a15b079e0dc1fd0bac28835236bf9e233d22ab225ffdb405efa42a8ce322",
+      "bytes": 236565,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,MldMu2b0ZmZkXPONLNPYq43ww.jpg"
+    },
+    {
+      "index": 20,
+      "path": "data/Orbit SEQ/V01/orbit0020.jpg",
+      "sha256": "eddcd28b3a0689efa838f59216165c3f3c84502b5f1c2b09ca06d6fb774d88c6",
+      "bytes": 237744,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,zVO1UwhwhMjxW3hycIlCjLUSFo.jpg"
+    },
+    {
+      "index": 21,
+      "path": "data/Orbit SEQ/V01/orbit0021.jpg",
+      "sha256": "869c35cb42a4677e471beeae1ff464053d5ddd761edbd0893d271871ee2b6159",
+      "bytes": 236993,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,OouUDtLoplrcEmrXV9XVVzQbp6Q.jpg"
+    },
+    {
+      "index": 22,
+      "path": "data/Orbit SEQ/V01/orbit0022.jpg",
+      "sha256": "5f2a01277cab203b320e3de45453d680f604a107fda0c70d22dc39eda1a43025",
+      "bytes": 241722,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,LyaEfeHuPS0T1i15blbOGYVbsaY.jpg"
+    },
+    {
+      "index": 23,
+      "path": "data/Orbit SEQ/V01/orbit0023.jpg",
+      "sha256": "472ce4eed3213d0878eb2e01adbb536e2be150ca1c8018440a79d0f8a0643a6f",
+      "bytes": 241660,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,r21Tz2GEizoATmHzzU7L28M.jpg"
+    },
+    {
+      "index": 24,
+      "path": "data/Orbit SEQ/V01/orbit0024.jpg",
+      "sha256": "c5f092eb5f908839112a8fa67c8f0eb9316ca1496816dccdba0495f9b52b485f",
+      "bytes": 247541,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,Fv1dUVASKrhinfGUwCM9608.jpg"
+    },
+    {
+      "index": 25,
+      "path": "data/Orbit SEQ/V01/orbit0025.jpg",
+      "sha256": "823b97c5e60aee4fb1ac13d8431f0fa4b3c69e278272089ebe8b8994f5baf0f0",
+      "bytes": 249209,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,AEN8kgI0YNpwERoqYPRpvt6gmU.jpg"
+    },
+    {
+      "index": 26,
+      "path": "data/Orbit SEQ/V01/orbit0026.jpg",
+      "sha256": "6611d2045a65b370f5f23de29d64e1b6996b5a771cf6453ea47cf7c0ec1e2a0b",
+      "bytes": 248418,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,2RS1ae0RMnxR2YWNVRG29XQdgP4.jpg"
+    },
+    {
+      "index": 27,
+      "path": "data/Orbit SEQ/V01/orbit0027.jpg",
+      "sha256": "2331d763edd47b6e9b4fa2289423a3d7ebb804f78b727e27520bb8819e8fb37d",
+      "bytes": 247839,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,hsAERboKZQ2Lccr5LUoBJY6XL3c.jpg"
+    },
+    {
+      "index": 28,
+      "path": "data/Orbit SEQ/V01/orbit0028.jpg",
+      "sha256": "834c24ca50675ad4178216b910eb7f5a89512f3ecc74e7be9017912dd355d921",
+      "bytes": 241864,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,MYS0MLTqC8sy67pHMH3pvdd4nzw.jpg"
+    },
+    {
+      "index": 29,
+      "path": "data/Orbit SEQ/V01/orbit0029.jpg",
+      "sha256": "92dae9e621b224a1d51f46eb39638bb159212aa771023f27ed034faee20d3fdb",
+      "bytes": 239225,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,p6kAFJAG8ViM0aeCg4Lx4cIzZc.jpg"
+    },
+    {
+      "index": 30,
+      "path": "data/Orbit SEQ/V01/orbit0030.jpg",
+      "sha256": "47368b96b3893e53bcb3571a8ac1763521e3b77735b7f1aacfb6c163a068ca95",
+      "bytes": 239333,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,w5sHExLL8HhmRTwcJHHbreWd9g.jpg"
+    },
+    {
+      "index": 31,
+      "path": "data/Orbit SEQ/V01/orbit0031.jpg",
+      "sha256": "ad5d6d868a02aeb8ea8ad1eff6f00d663ca89ba8e5fa495e6e4361cb0cebb1fa",
+      "bytes": 242298,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,EUnx0fxdaANRInpzUUzN9R96qQQ.jpg"
+    },
+    {
+      "index": 32,
+      "path": "data/Orbit SEQ/V01/orbit0032.jpg",
+      "sha256": "395c5821c783d59a1071bf1524e314462ac5ae15d11ef288bd8ae571ff5b411c",
+      "bytes": 241898,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,G4OOXJ9IrA2RlSCKBw9EXRDX0U.jpg"
+    },
+    {
+      "index": 33,
+      "path": "data/Orbit SEQ/V01/orbit0033.jpg",
+      "sha256": "25a3698192be2a0bd54205d61f238f8b44bfe2c08dfabd23e4feca7fc5818683",
+      "bytes": 244079,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,WXhICkdIXZ4y4XuiyW9T4nLcH3s.jpg"
+    },
+    {
+      "index": 34,
+      "path": "data/Orbit SEQ/V01/orbit0034.jpg",
+      "sha256": "bec8e12dedb4cca0ba162bde0d35a0a348c82669a2192e774df069bc700dfe72",
+      "bytes": 238040,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,oRVtSdxgOa8KOPjVA1MeZQqwzw.jpg"
+    },
+    {
+      "index": 35,
+      "path": "data/Orbit SEQ/V01/orbit0035.jpg",
+      "sha256": "38ac68f23cdef95b157ad83243f08f6cf97e503e9605783ab7c18444b7e67d64",
+      "bytes": 233447,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,p0vACJn77vWkIBlsN2NNXscaLI.jpg"
+    },
+    {
+      "index": 36,
+      "path": "data/Orbit SEQ/V01/orbit0036.jpg",
+      "sha256": "a98afa8404868c056b45047606cef94d6841b54e11c3c522128a0285c5b22022",
+      "bytes": 231434,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,ayS7OsbO5bMCihlWjWy1mBZurEY.jpg"
+    },
+    {
+      "index": 37,
+      "path": "data/Orbit SEQ/V01/orbit0037.jpg",
+      "sha256": "ffbb367c2a9411eb04d67675e0a61cf1b51612f78a47fb45a76d85efb68b797a",
+      "bytes": 222444,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,73G8xiLTShOAn6w795iMcRSLhM.jpg"
+    },
+    {
+      "index": 38,
+      "path": "data/Orbit SEQ/V01/orbit0038.jpg",
+      "sha256": "4e44c85256a505d976db490be2ed4791dd5858de0c43f98e1e952929f65492c7",
+      "bytes": 218832,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,dmNDiOjXUB4nslKAovpdDD9hS5M.jpg"
+    },
+    {
+      "index": 39,
+      "path": "data/Orbit SEQ/V01/orbit0039.jpg",
+      "sha256": "71fa24330d28e51dbea83ea47cb7478f71deb2d74d0f160be859f6083843e3d5",
+      "bytes": 208579,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,4SeU0Wz3ll3IYsyq15ZkSAdSRI.jpg"
+    },
+    {
+      "index": 40,
+      "path": "data/Orbit SEQ/V01/orbit0040.jpg",
+      "sha256": "f9d8bb9cd4d71bfd26573862fb6c1d2542ae0282f9b57b7f897091ba5b0104a4",
+      "bytes": 205674,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,nCYzj6ub3dZfgOkiONfdKbW8aXA.jpg"
+    },
+    {
+      "index": 41,
+      "path": "data/Orbit SEQ/V01/orbit0041.jpg",
+      "sha256": "645013b9065f6f7eca0277901f8125518bc66163ff1362775eb16f8921f5e18e",
+      "bytes": 203591,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,DGIKHR8gyOhfgB0JwLOLnQDZiqg.jpg"
+    },
+    {
+      "index": 42,
+      "path": "data/Orbit SEQ/V01/orbit0042.jpg",
+      "sha256": "3fe8179f4e1245a19cb262cb1647a7c56d58aced59ebd99ff58b68245c081fc7",
+      "bytes": 199081,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,WnAwHvpmRUPQt9DbeMGBRO4WhAE.jpg"
+    },
+    {
+      "index": 43,
+      "path": "data/Orbit SEQ/V01/orbit0043.jpg",
+      "sha256": "8e11a1300204b7f3d97156c92d94950ef876cee744d7de620726f4141c45ad95",
+      "bytes": 197600,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,X1zSaLJuNpbj9v5y7JrodYjYbU.jpg"
+    },
+    {
+      "index": 44,
+      "path": "data/Orbit SEQ/V01/orbit0044.jpg",
+      "sha256": "7739e5f715c0bed9380b2ef5b02d640da499fc4791b1d5fd2d3a6da61056f9be",
+      "bytes": 193822,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,Kugv2JCqxnYiHscO7WZIomMqNs.jpg"
+    },
+    {
+      "index": 45,
+      "path": "data/Orbit SEQ/V01/orbit0045.jpg",
+      "sha256": "e43020ace68cc9bfbff433ad0f4d5c29461708a3d8273cbca419219be30866db",
+      "bytes": 192256,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,23qDtFUBQFNNPbCsX8M1eH8wU5Q.jpg"
+    },
+    {
+      "index": 46,
+      "path": "data/Orbit SEQ/V01/orbit0046.jpg",
+      "sha256": "15d853a2ebfe652415828e0f264b8bb5c5fe9582affdda2712e2c276d34f4e38",
+      "bytes": 188424,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,GMuJ9bqeFRAdmYJc8UNSax7Vkug.jpg"
+    },
+    {
+      "index": 47,
+      "path": "data/Orbit SEQ/V01/orbit0047.jpg",
+      "sha256": "164048738287c65d235c256023ec6c14bdcdd83fcbb811a78cadc22cd4e0093c",
+      "bytes": 187346,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,eSJUBTZnGdd4c4w2wYuU4xk2r4.jpg"
+    },
+    {
+      "index": 48,
+      "path": "data/Orbit SEQ/V01/orbit0048.jpg",
+      "sha256": "c68a12e7ea4386b1152f012329f127161ba007b7aa0364e80c44b4c9404b0ec6",
+      "bytes": 187357,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,0iAL4uTKRF9P5jF3lhAhy8tTsrM.jpg"
+    },
+    {
+      "index": 49,
+      "path": "data/Orbit SEQ/V01/orbit0049.jpg",
+      "sha256": "7ad45490d7a03350aa375be54c5c6c2211076e03af118f9ac6756fadccbb35aa",
+      "bytes": 193538,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,AiaJ9vOHMuHp1WHTzFGqWpC8w.jpg"
+    },
+    {
+      "index": 50,
+      "path": "data/Orbit SEQ/V01/orbit0050.jpg",
+      "sha256": "d2fe9e6e9f8e81b560c8fb6706b3e6de9f2ab339d19323d07cd6437381e52e14",
+      "bytes": 196726,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,Ytct2RUO3gyQQDW36AJY9hCgE.jpg"
+    },
+    {
+      "index": 51,
+      "path": "data/Orbit SEQ/V01/orbit0051.jpg",
+      "sha256": "c4525c07ffdb593f6ce267f4c59b789c051213741058135a72998d33c978d728",
+      "bytes": 202631,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,RIEgY0EWr8UEQL8Bzps2uiVXfX0.jpg"
+    },
+    {
+      "index": 52,
+      "path": "data/Orbit SEQ/V01/orbit0052.jpg",
+      "sha256": "501cc11ded086f44d45b685a637a115398d9b3c9669bd3f5d7c129fc747269b3",
+      "bytes": 206309,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,YhNDcCxtXhgTRyBJzBOvcjqeYb8.jpg"
+    },
+    {
+      "index": 53,
+      "path": "data/Orbit SEQ/V01/orbit0053.jpg",
+      "sha256": "5cd9e250d5003cb0cab52bbb434c3ff7a5bd31524d680c45a63d3c4b388b5e8c",
+      "bytes": 203823,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,KwiP38aFcElIQvRXEIls9eMbax4.jpg"
+    },
+    {
+      "index": 54,
+      "path": "data/Orbit SEQ/V01/orbit0054.jpg",
+      "sha256": "be6c5f581847433c4b246e3ff1a33982ac654a5e1617360fad06005501882988",
+      "bytes": 204235,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,mEZdcaJt3lmutylT3UjP6zvwNE.jpg"
+    },
+    {
+      "index": 55,
+      "path": "data/Orbit SEQ/V01/orbit0055.jpg",
+      "sha256": "e6f9e6ef0c600d97b28bd8c13da464b4f11db1f739b8c33a8dbe04cec0eceadd",
+      "bytes": 202421,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,wDPDS6olhZkGiGM2ihXl0q2HWI.jpg"
+    },
+    {
+      "index": 56,
+      "path": "data/Orbit SEQ/V01/orbit0056.jpg",
+      "sha256": "f36b7cd2e12f0bedb2f0d80110687e0f4133dd32584aa36da0a97751473aa040",
+      "bytes": 200681,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,YDlszhzxPZESGYiiRciiCxryzyM.jpg"
+    },
+    {
+      "index": 57,
+      "path": "data/Orbit SEQ/V01/orbit0057.jpg",
+      "sha256": "bdd6de523916e65fe477d863db7c8b4d33b9704c02541397ebdc39f66959a754",
+      "bytes": 201172,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,9yVIdwrBJbjGbGIqPQyOipNTsOg.jpg"
+    },
+    {
+      "index": 58,
+      "path": "data/Orbit SEQ/V01/orbit0058.jpg",
+      "sha256": "371cfa3657257f64b1f44c8f2cf7483d34da9bd4a2c35cdbc8350f577fe9501d",
+      "bytes": 198371,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,ymluuBPd6mtmMnh6OVUMz8taU.jpg"
+    },
+    {
+      "index": 59,
+      "path": "data/Orbit SEQ/V01/orbit0059.jpg",
+      "sha256": "8a565ea2cebf6cc83718ccff86ca2bde12ec4afa24dd212bf41197396e2c3a93",
+      "bytes": 198729,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,aMfYfcG4tnfhzxxYGFWCN8ziYI.jpg"
+    },
+    {
+      "index": 60,
+      "path": "data/Orbit SEQ/V01/orbit0060.jpg",
+      "sha256": "d3329d4a3ebb1ac64a01e576a6e406dc9d06156fd288cecbc04b3a61683e9609",
+      "bytes": 194154,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,WryI4Cy6WuH2tJ2vvJQXQMuo.jpg"
+    },
+    {
+      "index": 61,
+      "path": "data/Orbit SEQ/V01/orbit0061.jpg",
+      "sha256": "c17b10aedb59c7ec7a839bac8c8884940f9ba06652219ba73988f236f08910ca",
+      "bytes": 194444,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,s97sX7HPHWIBIYrZyWCcdopDkOE.jpg"
+    },
+    {
+      "index": 62,
+      "path": "data/Orbit SEQ/V01/orbit0062.jpg",
+      "sha256": "d4c8b931d0deb13a6f8e45c530b5316ff94a6bb68fca0b7c9a269bfc78791dbe",
+      "bytes": 191662,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,FaYT8OoCiapmOr8NxCQC3Oeho.jpg"
+    },
+    {
+      "index": 63,
+      "path": "data/Orbit SEQ/V01/orbit0063.jpg",
+      "sha256": "cfe5cd6cd5a4b228ce76c25ede65aeaa35d195543061d65ac13279f02f224db9",
+      "bytes": 192606,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,gLhn0mcuS5qCrRiPUa4BRlFWc0.jpg"
+    },
+    {
+      "index": 64,
+      "path": "data/Orbit SEQ/V01/orbit0064.jpg",
+      "sha256": "5ef5ae8b3bc37539d9b40208a7562eb8af7d17e453baeaf56efe0ad71489ffe1",
+      "bytes": 191016,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,sZKrDNjLTtaZLSdzmyE8U6b8mU.jpg"
+    },
+    {
+      "index": 65,
+      "path": "data/Orbit SEQ/V01/orbit0065.jpg",
+      "sha256": "d5f0d10d273f056a9335725b6b2ca47d0e4e400bfc037cf9373dfff9e8545c0c",
+      "bytes": 191732,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,OCNY5Qhz9OlbJLgKM7OajhQy7vU.jpg"
+    },
+    {
+      "index": 66,
+      "path": "data/Orbit SEQ/V01/orbit0066.jpg",
+      "sha256": "42daa81fba8a09d6ca9509696f437ddc17ef22d82821386c9d540f6a31a792c5",
+      "bytes": 186502,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,wRJf9fI85LTKnjQ69osAH5IliQ.jpg"
+    },
+    {
+      "index": 67,
+      "path": "data/Orbit SEQ/V01/orbit0067.jpg",
+      "sha256": "efe8eae7cc260dac2e117a86d0a9334d7755b062e3ae27536ee673e93e1be416",
+      "bytes": 186968,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,v00VuPdODctUE9CEzsI0wYOQ.jpg"
+    },
+    {
+      "index": 68,
+      "path": "data/Orbit SEQ/V01/orbit0068.jpg",
+      "sha256": "0159bfbf041ee7e72a24838fb7000391dfaddb9546ff5d4b2a2cbcacc4f17feb",
+      "bytes": 186168,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,Zr54WmuzY78FTSPt3wHTs5JM85s.jpg"
+    },
+    {
+      "index": 69,
+      "path": "data/Orbit SEQ/V01/orbit0069.jpg",
+      "sha256": "9f3ff7cfeb3111742d907952bc5891c5dd6adbc20d9b1312a34e1ce9cf4ccb22",
+      "bytes": 185082,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,ZAhjDAfKo4GWi2DaLQ7fkdwsqM.jpg"
+    },
+    {
+      "index": 70,
+      "path": "data/Orbit SEQ/V01/orbit0070.jpg",
+      "sha256": "e883c99cbde7dbb535c9e57a7e41b234af34f34e3f180f2b367d8600c236c9e8",
+      "bytes": 191502,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,zt3YlXqgiYRdP9JfPGw0izfU6e0.jpg"
+    },
+    {
+      "index": 71,
+      "path": "data/Orbit SEQ/V01/orbit0071.jpg",
+      "sha256": "3140afe1bc8c5678cc388e3dc346f1cbd4bec3e846df84836ff45ec828b2e0ad",
+      "bytes": 192632,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,0gKLUYLUb4O9Q3wS32vtzP7FzIs.jpg"
+    },
+    {
+      "index": 72,
+      "path": "data/Orbit SEQ/V01/orbit0072.jpg",
+      "sha256": "0c837899c790c06423404b21c9d1f7ef2dfa9e9d3d09d92dcf5306c6e7d704cc",
+      "bytes": 202172,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,FOnT6L5WVTSCgLhQSMYJZxE9cmY.jpg"
+    },
+    {
+      "index": 73,
+      "path": "data/Orbit SEQ/V01/orbit0073.jpg",
+      "sha256": "4ab58c50d4272aa2d72bb2f6e123058453fb1dcf15c54b427438dd9428dfad39",
+      "bytes": 209497,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,WwLYFuf9BHgwFiha4xM7w6UOOfk.jpg"
+    },
+    {
+      "index": 74,
+      "path": "data/Orbit SEQ/V01/orbit0074.jpg",
+      "sha256": "698d7ac8630afe54a32a27644d6c7699ae6c89a5b16ec6ffd92e25bb9dc8076d",
+      "bytes": 212313,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,dlsKRykPt4rvaIvbi6hiVQtYzc.jpg"
+    },
+    {
+      "index": 75,
+      "path": "data/Orbit SEQ/V01/orbit0075.jpg",
+      "sha256": "a328fdb1fc6b482e3442c23ae004a948a41dc76decefcf320926b021db9f0720",
+      "bytes": 223534,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,zAhsSaC7RWjqBydDysFL3mtHww.jpg"
+    },
+    {
+      "index": 76,
+      "path": "data/Orbit SEQ/V01/orbit0076.jpg",
+      "sha256": "7f6b344cb535fe82f0bfc15922efb867686f7f6e13bbb8db54855d9b583bd408",
+      "bytes": 228082,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,uKiy5vTp6b4jjg1aPjknG8c2bXM.jpg"
+    },
+    {
+      "index": 77,
+      "path": "data/Orbit SEQ/V01/orbit0077.jpg",
+      "sha256": "68e7b4ff34e991d0faa312d10a94da58b08fa8b0a886360dcda50c4d1de1fd3a",
+      "bytes": 237171,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,ErAzJWGrO0Y1rSAyzLfrJzUc.jpg"
+    },
+    {
+      "index": 78,
+      "path": "data/Orbit SEQ/V01/orbit0078.jpg",
+      "sha256": "20ac88f870cf734704d69f0828a666d72d8fad1cb87eb4c3020c08725cd402a1",
+      "bytes": 242252,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,UcL4P7kwkRITfVxEmrIB3QwjH6Q.jpg"
+    },
+    {
+      "index": 79,
+      "path": "data/Orbit SEQ/V01/orbit0079.jpg",
+      "sha256": "59f98fb5a89edfc63cf114128c7a3465a6d3a545602ea6a9f3f1165a0c744d1f",
+      "bytes": 244861,
+      "dimensions": [
+        1920,
+        1080
+      ],
+      "framerAssetReference": "data:framer/asset-reference,yTukNJvp3raDa7kP5HJg1412FG4.jpg"
+    }
+  ]
+}

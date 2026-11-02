@@ -1,0 +1,25 @@
+{
+  "apartments": 53,
+  "uniqueColors": 53,
+  "roomAreaChecksPassed": 53,
+  "buildingFloorCounts": {
+    "1-F00": 10,
+    "1-F01": 8,
+    "1-F02": 1,
+    "2-F00": 4,
+    "2-F01": 3,
+    "2-F02": 1,
+    "3-F00": 6,
+    "3-F01": 4,
+    "3-F02": 2,
+    "4-F00": 7,
+    "4-F01": 6,
+    "4-F02": 1
+  },
+  "totalRoomEntries": 406,
+  "statusCounts": {
+    "available": 46,
+    "sold": 7
+  },
+  "missingFloorplanImages": 53
+}

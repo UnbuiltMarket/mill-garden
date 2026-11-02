@@ -1,0 +1,6300 @@
+{
+  "schemaVersion": "1.0",
+  "project": {
+    "id": "mill-garden",
+    "name": "Mill Garden",
+    "city": "Balatonszemes",
+    "locale": "hu-HU",
+    "currency": "HUF",
+    "areaUnit": "m²",
+    "availabilityAsOf": null,
+    "priceAsOf": "2026-07",
+    "priceDefinition": "Gross apartment price including 5% VAT; parking excluded. Historical source, not live availability.",
+    "source": {
+      "path": "sources/Mill-Garden-buyer-booklet.pdf",
+      "sha256": "0706dba3129916538a301adc2c8c6d77a898d7b93280244a32794e97b607400e",
+      "schedulePages": [
+        5,
+        6
+      ]
+    },
+    "missingAssets": [
+      "Apartment floorplan images",
+      "Building floor-layout images",
+      "Apartment image marker coordinates",
+      "Orbit mask renders"
+    ]
+  },
+  "apartments": [
+    {
+      "id": "1-01",
+      "name": "1. épület / 1. lakás",
+      "building": "1",
+      "apartmentNumber": 1,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 55.59,
+      "areaTerrace": 7.5,
+      "areaGarden": 34.53,
+      "price": 82900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#F03030",
+      "box": {
+        "objectName": "MG_MASK_1-01",
+        "layer": "MG_MASKS_1_F00",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          33523,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 8,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 8
+      },
+      "roomList": [
+        {
+          "id": "1-01-R01",
+          "name": "Közlekedő",
+          "area": 1.74,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-01-R02",
+          "name": "WC",
+          "area": 1.38,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-01-R03",
+          "name": "Fürdő",
+          "area": 4.58,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-01-R04",
+          "name": "Konyha",
+          "area": 5.67,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-01-R05",
+          "name": "Nappali",
+          "area": 30.22,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-01-R06",
+          "name": "Szoba",
+          "area": 12.0,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-01-R07",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-01-R08",
+          "name": "Kert",
+          "area": 34.53,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-02",
+      "name": "1. épület / 2. lakás",
+      "building": "1",
+      "apartmentNumber": 2,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 59.59,
+      "areaTerrace": 7.68,
+      "areaGarden": 97.75,
+      "price": 88900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#30F0F0",
+      "box": {
+        "objectName": "MG_MASK_1-02",
+        "layer": "MG_MASKS_1_F00",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          34623,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 8,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 8
+      },
+      "roomList": [
+        {
+          "id": "1-02-R01",
+          "name": "Közlekedő",
+          "area": 3.9,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-02-R02",
+          "name": "WC",
+          "area": 1.45,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-02-R03",
+          "name": "Fürdő",
+          "area": 3.44,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-02-R04",
+          "name": "Konyha",
+          "area": 8.08,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-02-R05",
+          "name": "Nappali",
+          "area": 18.5,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-02-R06",
+          "name": "Szoba",
+          "area": 12.07,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-02-R07",
+          "name": "Szoba",
+          "area": 12.15,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-02-R08",
+          "name": "Terasz",
+          "area": 7.68,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-02-R09",
+          "name": "Kert",
+          "area": 97.75,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-03",
+      "name": "1. épület / 3. lakás",
+      "building": "1",
+      "apartmentNumber": 3,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 41.43,
+      "areaTerrace": 7.5,
+      "areaGarden": 18.12,
+      "price": 61900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#303070",
+      "box": {
+        "objectName": "MG_MASK_1-03",
+        "layer": "MG_MASKS_1_F00",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          35723,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 8,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 8
+      },
+      "roomList": [
+        {
+          "id": "1-03-R01",
+          "name": "Közlekedő",
+          "area": 2.94,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-03-R02",
+          "name": "Fürdő",
+          "area": 3.5,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-03-R03",
+          "name": "Konyha",
+          "area": 5.12,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-03-R04",
+          "name": "Nappali",
+          "area": 17.4,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-03-R05",
+          "name": "Szoba",
+          "area": 12.47,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-03-R06",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-03-R07",
+          "name": "Kert",
+          "area": 18.12,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-04",
+      "name": "1. épület / 4. lakás",
+      "building": "1",
+      "apartmentNumber": 4,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 41.43,
+      "areaTerrace": 7.5,
+      "areaGarden": 17.26,
+      "price": 61900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#70F030",
+      "box": {
+        "objectName": "MG_MASK_1-04",
+        "layer": "MG_MASKS_1_F00",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          36823,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 8,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 8
+      },
+      "roomList": [
+        {
+          "id": "1-04-R01",
+          "name": "Közlekedő",
+          "area": 2.94,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-04-R02",
+          "name": "Fürdő",
+          "area": 3.5,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-04-R03",
+          "name": "Konyha",
+          "area": 5.12,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-04-R04",
+          "name": "Nappali",
+          "area": 17.4,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-04-R05",
+          "name": "Szoba",
+          "area": 12.47,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-04-R06",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-04-R07",
+          "name": "Kert",
+          "area": 17.26,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-05",
+      "name": "1. épület / 5. lakás",
+      "building": "1",
+      "apartmentNumber": 5,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 41.43,
+      "areaTerrace": 7.5,
+      "areaGarden": 16.4,
+      "price": 61900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#F070F0",
+      "box": {
+        "objectName": "MG_MASK_1-05",
+        "layer": "MG_MASKS_1_F00",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          37923,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 8,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 8
+      },
+      "roomList": [
+        {
+          "id": "1-05-R01",
+          "name": "Közlekedő",
+          "area": 2.94,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-05-R02",
+          "name": "Fürdő",
+          "area": 3.5,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-05-R03",
+          "name": "Konyha",
+          "area": 5.12,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-05-R04",
+          "name": "Nappali",
+          "area": 17.4,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-05-R05",
+          "name": "Szoba",
+          "area": 12.47,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-05-R06",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-05-R07",
+          "name": "Kert",
+          "area": 16.4,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-06",
+      "name": "1. épület / 6. lakás",
+      "building": "1",
+      "apartmentNumber": 6,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 59.53,
+      "areaTerrace": 6.34,
+      "areaGarden": 81.1,
+      "price": 88900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#7030F0",
+      "box": {
+        "objectName": "MG_MASK_1-06",
+        "layer": "MG_MASKS_1_F00",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          39023,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 8,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 8
+      },
+      "roomList": [
+        {
+          "id": "1-06-R01",
+          "name": "Közlekedő",
+          "area": 7.48,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-06-R02",
+          "name": "Fürdő",
+          "area": 4.64,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-06-R03",
+          "name": "WC",
+          "area": 1.92,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-06-R04",
+          "name": "Konyha",
+          "area": 3.6,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-06-R05",
+          "name": "Nappali",
+          "area": 17.49,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-06-R06",
+          "name": "Szoba",
+          "area": 12.4,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-06-R07",
+          "name": "Szoba",
+          "area": 12.0,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-06-R08",
+          "name": "Terasz",
+          "area": 6.34,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-06-R09",
+          "name": "Kert",
+          "area": 81.1,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-07",
+      "name": "1. épület / 7. lakás",
+      "building": "1",
+      "apartmentNumber": 7,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 51.19,
+      "areaTerrace": 7.5,
+      "areaGarden": 71.27,
+      "price": 75900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#B0F0B0",
+      "box": {
+        "objectName": "MG_MASK_1-07",
+        "layer": "MG_MASKS_1_F00",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          40123,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 8,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 8
+      },
+      "roomList": [
+        {
+          "id": "1-07-R01",
+          "name": "Közlekedő",
+          "area": 4.03,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-07-R02",
+          "name": "Fürdő",
+          "area": 4.34,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-07-R03",
+          "name": "Konyha",
+          "area": 6.21,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-07-R04",
+          "name": "Nappali",
+          "area": 21.69,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-07-R05",
+          "name": "Szoba",
+          "area": 14.92,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-07-R06",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-07-R07",
+          "name": "Kert",
+          "area": 71.27,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-08",
+      "name": "1. épület / 8. lakás",
+      "building": "1",
+      "apartmentNumber": 8,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 46.64,
+      "areaTerrace": 7.5,
+      "areaGarden": 29.75,
+      "price": 68900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#F0B030",
+      "box": {
+        "objectName": "MG_MASK_1-08",
+        "layer": "MG_MASKS_1_F00",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          41223,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 8,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 8
+      },
+      "roomList": [
+        {
+          "id": "1-08-R01",
+          "name": "Közlekedő",
+          "area": 3.96,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-08-R02",
+          "name": "Fürdő",
+          "area": 3.79,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-08-R03",
+          "name": "Konyha",
+          "area": 7.59,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-08-R04",
+          "name": "Nappali",
+          "area": 17.76,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-08-R05",
+          "name": "Szoba",
+          "area": 13.54,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-08-R06",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-08-R07",
+          "name": "Kert",
+          "area": 29.75,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-09",
+      "name": "1. épület / 9. lakás",
+      "building": "1",
+      "apartmentNumber": 9,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 46.64,
+      "areaTerrace": 7.5,
+      "areaGarden": 29.75,
+      "price": 68900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#30B070",
+      "box": {
+        "objectName": "MG_MASK_1-09",
+        "layer": "MG_MASKS_1_F00",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          42323,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 9,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 9
+      },
+      "roomList": [
+        {
+          "id": "1-09-R01",
+          "name": "Közlekedő",
+          "area": 3.96,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-09-R02",
+          "name": "Fürdő",
+          "area": 3.79,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-09-R03",
+          "name": "Konyha",
+          "area": 7.59,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-09-R04",
+          "name": "Nappali",
+          "area": 17.76,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-09-R05",
+          "name": "Szoba",
+          "area": 13.54,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-09-R06",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-09-R07",
+          "name": "Kert",
+          "area": 29.75,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-10",
+      "name": "1. épület / 10. lakás",
+      "building": "1",
+      "apartmentNumber": 10,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 50.73,
+      "areaTerrace": 17.32,
+      "areaGarden": 17.19,
+      "price": 81900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#707030",
+      "box": {
+        "objectName": "MG_MASK_1-10",
+        "layer": "MG_MASKS_1_F00",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          43423,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 9,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 9
+      },
+      "roomList": [
+        {
+          "id": "1-10-R01",
+          "name": "Gardrób",
+          "area": 4.5,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-10-R02",
+          "name": "Közlekedő",
+          "area": 4.64,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-10-R03",
+          "name": "Zuhanyzó",
+          "area": 4.31,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-10-R04",
+          "name": "Konyha",
+          "area": 5.4,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-10-R05",
+          "name": "Nappali",
+          "area": 20.78,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-10-R06",
+          "name": "Szoba",
+          "area": 11.1,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-10-R07",
+          "name": "Terasz",
+          "area": 9.0,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-10-R08",
+          "name": "Terasz",
+          "area": 8.32,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-10-R09",
+          "name": "Kert",
+          "area": 17.19,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-11",
+      "name": "1. épület / 11. lakás",
+      "building": "1",
+      "apartmentNumber": 11,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 48.13,
+      "areaTerrace": 15.64,
+      "areaGarden": null,
+      "price": 79900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#3070B0",
+      "box": {
+        "objectName": "MG_MASK_1-11",
+        "layer": "MG_MASKS_1_F01",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          33523,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 9,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 9
+      },
+      "roomList": [
+        {
+          "id": "1-11-R01",
+          "name": "Közlekedő",
+          "area": 1.21,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-11-R02",
+          "name": "Fürdő",
+          "area": 5.21,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-11-R03",
+          "name": "Konyha",
+          "area": 4.5,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-11-R04",
+          "name": "Nappali",
+          "area": 24.26,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-11-R05",
+          "name": "Szoba",
+          "area": 12.95,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-11-R06",
+          "name": "Terasz",
+          "area": 6.32,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        },
+        {
+          "id": "1-11-R07",
+          "name": "Terasz",
+          "area": 9.32,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-12",
+      "name": "1. épület / 12. lakás",
+      "building": "1",
+      "apartmentNumber": 12,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 42.92,
+      "areaTerrace": 18.29,
+      "areaGarden": null,
+      "price": 74900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#70B0B0",
+      "box": {
+        "objectName": "MG_MASK_1-12",
+        "layer": "MG_MASKS_1_F01",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          34623,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 9,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 9
+      },
+      "roomList": [
+        {
+          "id": "1-12-R01",
+          "name": "Közlekedő",
+          "area": 3.37,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-12-R02",
+          "name": "Fürdő",
+          "area": 5.1,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-12-R03",
+          "name": "Konyha",
+          "area": 3.12,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-12-R04",
+          "name": "Nappali",
+          "area": 17.23,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-12-R05",
+          "name": "Szoba",
+          "area": 14.1,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-12-R06",
+          "name": "Terasz",
+          "area": 18.29,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-13",
+      "name": "1. épület / 13. lakás",
+      "building": "1",
+      "apartmentNumber": 13,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 30.76,
+      "areaTerrace": 12.42,
+      "areaGarden": null,
+      "price": null,
+      "status": "sold",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 1,
+      "bedrooms": 0,
+      "layoutLabel": "Egyszobás lakás",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Eladva",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#B03070",
+      "box": {
+        "objectName": "MG_MASK_1-13",
+        "layer": "MG_MASKS_1_F01",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          35723,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 9,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 9
+      },
+      "roomList": [
+        {
+          "id": "1-13-R01",
+          "name": "Zuhanyzó",
+          "area": 3.3,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-13-R02",
+          "name": "Konyha",
+          "area": 4.14,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-13-R03",
+          "name": "Szoba",
+          "area": 23.32,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-13-R04",
+          "name": "Terasz",
+          "area": 12.42,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-14",
+      "name": "1. épület / 14. lakás",
+      "building": "1",
+      "apartmentNumber": 14,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 30.23,
+      "areaTerrace": 12.42,
+      "areaGarden": null,
+      "price": null,
+      "status": "sold",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 1,
+      "bedrooms": 0,
+      "layoutLabel": "Egyszobás lakás",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Eladva",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#B070B0",
+      "box": {
+        "objectName": "MG_MASK_1-14",
+        "layer": "MG_MASKS_1_F01",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          36823,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 9,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 9
+      },
+      "roomList": [
+        {
+          "id": "1-14-R01",
+          "name": "Zuhanyzó",
+          "area": 3.3,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-14-R02",
+          "name": "Konyha",
+          "area": 4.11,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-14-R03",
+          "name": "Szoba",
+          "area": 22.82,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-14-R04",
+          "name": "Terasz",
+          "area": 12.42,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-15",
+      "name": "1. épület / 15. lakás",
+      "building": "1",
+      "apartmentNumber": 15,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 60.14,
+      "areaTerrace": 47.84,
+      "areaGarden": null,
+      "price": 104900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#B0B070",
+      "box": {
+        "objectName": "MG_MASK_1-15",
+        "layer": "MG_MASKS_1_F01",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          37923,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 9,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 9
+      },
+      "roomList": [
+        {
+          "id": "1-15-R01",
+          "name": "Gardrób",
+          "area": 7.3,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-15-R02",
+          "name": "WC",
+          "area": 1.27,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-15-R03",
+          "name": "Fürdő",
+          "area": 3.68,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-15-R04",
+          "name": "Konyha",
+          "area": 5.84,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-15-R05",
+          "name": "Nappali",
+          "area": 23.02,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-15-R06",
+          "name": "Szoba",
+          "area": 9.2,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-15-R07",
+          "name": "Szoba",
+          "area": 9.83,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-15-R08",
+          "name": "Terasz",
+          "area": 24.62,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        },
+        {
+          "id": "1-15-R09",
+          "name": "Terasz",
+          "area": 23.22,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-16",
+      "name": "1. épület / 16. lakás",
+      "building": "1",
+      "apartmentNumber": 16,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 72.48,
+      "areaTerrace": 57.07,
+      "areaGarden": null,
+      "price": 124900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 4,
+      "bedrooms": 3,
+      "layoutLabel": "3 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#B0B0F0",
+      "box": {
+        "objectName": "MG_MASK_1-16",
+        "layer": "MG_MASKS_1_F01",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          39023,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 9,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 9
+      },
+      "roomList": [
+        {
+          "id": "1-16-R01",
+          "name": "Gardrób",
+          "area": 5.28,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-16-R02",
+          "name": "WC",
+          "area": 1.9,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-16-R03",
+          "name": "Fürdő",
+          "area": 4.02,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-16-R04",
+          "name": "Konyha",
+          "area": 5.28,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-16-R05",
+          "name": "Nappali",
+          "area": 20.82,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-16-R06",
+          "name": "Szoba",
+          "area": 12.03,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-16-R07",
+          "name": "Szoba",
+          "area": 9.3,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-16-R08",
+          "name": "Szoba",
+          "area": 13.85,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-16-R09",
+          "name": "Terasz",
+          "area": 57.07,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-17",
+      "name": "1. épület / 17. lakás",
+      "building": "1",
+      "apartmentNumber": 17,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 35.74,
+      "areaTerrace": 10.73,
+      "areaGarden": null,
+      "price": null,
+      "status": "sold",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Eladva",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#F030B0",
+      "box": {
+        "objectName": "MG_MASK_1-17",
+        "layer": "MG_MASKS_1_F01",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          40123,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 9,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 9
+      },
+      "roomList": [
+        {
+          "id": "1-17-R01",
+          "name": "Közlekedő",
+          "area": 2.97,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-17-R02",
+          "name": "Fürdő",
+          "area": 3.2,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-17-R03",
+          "name": "Konyha",
+          "area": 3.24,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-17-R04",
+          "name": "Nappali",
+          "area": 17.18,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-17-R05",
+          "name": "Szoba",
+          "area": 9.15,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-17-R06",
+          "name": "Terasz",
+          "area": 10.73,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-18",
+      "name": "1. épület / 18. lakás",
+      "building": "1",
+      "apartmentNumber": 18,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 56.61,
+      "areaTerrace": 16.05,
+      "areaGarden": null,
+      "price": 92900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#F07070",
+      "box": {
+        "objectName": "MG_MASK_1-18",
+        "layer": "MG_MASKS_1_F01",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          41223,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 10,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 10
+      },
+      "roomList": [
+        {
+          "id": "1-18-R01",
+          "name": "Közlekedő",
+          "area": 1.76,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-18-R02",
+          "name": "Fürdő",
+          "area": 4.36,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-18-R03",
+          "name": "Konyha",
+          "area": 4.59,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-18-R04",
+          "name": "Nappali",
+          "area": 22.02,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-18-R05",
+          "name": "Szoba",
+          "area": 13.44,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-18-R06",
+          "name": "Szoba",
+          "area": 10.44,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-18-R07",
+          "name": "Terasz",
+          "area": 16.05,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "1-19",
+      "name": "1. épület / 19. lakás",
+      "building": "1",
+      "apartmentNumber": 19,
+      "floor": 2,
+      "floorLabel": "2. emelet",
+      "areaInterior": 137.2,
+      "areaTerrace": 202.44,
+      "areaGarden": null,
+      "price": null,
+      "status": "sold",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 4,
+      "bedrooms": 3,
+      "layoutLabel": "3 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Eladva",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#F0B0B0",
+      "box": {
+        "objectName": "MG_MASK_1-19",
+        "layer": "MG_MASKS_1_F02",
+        "parentLayer": "MG_MASKS_1",
+        "stagingPositionCm": [
+          33523,
+          10000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 10,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 10
+      },
+      "roomList": [
+        {
+          "id": "1-19-R01",
+          "name": "Gardrób",
+          "area": 14.12,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R02",
+          "name": "Háztartási",
+          "area": 3.13,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R03",
+          "name": "Zuhanyzó",
+          "area": 2.9,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R04",
+          "name": "Zuhanyzó",
+          "area": 3.39,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R05",
+          "name": "Fürdő",
+          "area": 6.03,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R06",
+          "name": "Konyha",
+          "area": 13.51,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R07",
+          "name": "Kamra",
+          "area": 1.0,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R08",
+          "name": "Nappali",
+          "area": 37.01,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R09",
+          "name": "Szoba",
+          "area": 12.6,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R10",
+          "name": "Szoba",
+          "area": 14.0,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R11",
+          "name": "Szoba",
+          "area": 29.51,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R12",
+          "name": "Terasz",
+          "area": 121.93,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        },
+        {
+          "id": "1-19-R13",
+          "name": "Terasz",
+          "area": 80.51,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "2-01",
+      "name": "2. épület / 1. lakás",
+      "building": "2",
+      "apartmentNumber": 1,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 61.37,
+      "areaTerrace": 7.5,
+      "areaGarden": 41.76,
+      "price": 91900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#F0F070",
+      "box": {
+        "objectName": "MG_MASK_2-01",
+        "layer": "MG_MASKS_2_F00",
+        "parentLayer": "MG_MASKS_2",
+        "stagingPositionCm": [
+          46523,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 11,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 11
+      },
+      "roomList": [
+        {
+          "id": "2-01-R01",
+          "name": "Közlekedő",
+          "area": 2.94,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-01-R02",
+          "name": "Fürdő",
+          "area": 4.79,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-01-R03",
+          "name": "Konyha",
+          "area": 4.5,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-01-R04",
+          "name": "Nappali",
+          "area": 30.07,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-01-R05",
+          "name": "Szoba",
+          "area": 19.07,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-01-R06",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-01-R07",
+          "name": "Kert",
+          "area": 41.76,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "2-02",
+      "name": "2. épület / 2. lakás",
+      "building": "2",
+      "apartmentNumber": 2,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 56.46,
+      "areaTerrace": 7.5,
+      "areaGarden": 99.86,
+      "price": 83900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#F0F0F0",
+      "box": {
+        "objectName": "MG_MASK_2-02",
+        "layer": "MG_MASKS_2_F00",
+        "parentLayer": "MG_MASKS_2",
+        "stagingPositionCm": [
+          47623,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 11,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 11
+      },
+      "roomList": [
+        {
+          "id": "2-02-R01",
+          "name": "Gardrób",
+          "area": 2.09,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-02-R02",
+          "name": "WC",
+          "area": 1.35,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-02-R03",
+          "name": "Fürdő",
+          "area": 4.39,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-02-R04",
+          "name": "Konyha",
+          "area": 4.5,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-02-R05",
+          "name": "Nappali",
+          "area": 22.88,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-02-R06",
+          "name": "Szoba",
+          "area": 9.69,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-02-R07",
+          "name": "Szoba",
+          "area": 11.56,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-02-R08",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-02-R09",
+          "name": "Kert",
+          "area": 99.86,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "2-03",
+      "name": "2. épület / 3. lakás",
+      "building": "2",
+      "apartmentNumber": 3,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 59.42,
+      "areaTerrace": 7.5,
+      "areaGarden": 79.39,
+      "price": 88900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#3030B0",
+      "box": {
+        "objectName": "MG_MASK_2-03",
+        "layer": "MG_MASKS_2_F00",
+        "parentLayer": "MG_MASKS_2",
+        "stagingPositionCm": [
+          48723,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 11,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 11
+      },
+      "roomList": [
+        {
+          "id": "2-03-R01",
+          "name": "Közlekedő",
+          "area": 4.98,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-03-R02",
+          "name": "WC",
+          "area": 1.89,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-03-R03",
+          "name": "Fürdő",
+          "area": 5.3,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-03-R04",
+          "name": "Konyha",
+          "area": 5.3,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-03-R05",
+          "name": "Nappali",
+          "area": 25.88,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-03-R06",
+          "name": "Szoba",
+          "area": 16.07,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-03-R07",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-03-R08",
+          "name": "Kert",
+          "area": 79.39,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "2-04",
+      "name": "2. épület / 4. lakás",
+      "building": "2",
+      "apartmentNumber": 4,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 55.68,
+      "areaTerrace": 7.85,
+      "areaGarden": 20.69,
+      "price": 82900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#3030F0",
+      "box": {
+        "objectName": "MG_MASK_2-04",
+        "layer": "MG_MASKS_2_F00",
+        "parentLayer": "MG_MASKS_2",
+        "stagingPositionCm": [
+          49823,
+          12000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 11,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 11
+      },
+      "roomList": [
+        {
+          "id": "2-04-R01",
+          "name": "Gardrób",
+          "area": 4.87,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-04-R02",
+          "name": "Fürdő",
+          "area": 5.9,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-04-R03",
+          "name": "Konyha",
+          "area": 4.8,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-04-R04",
+          "name": "Nappali",
+          "area": 26.61,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-04-R05",
+          "name": "Szoba",
+          "area": 13.5,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-04-R06",
+          "name": "Terasz",
+          "area": 7.85,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-04-R07",
+          "name": "Kert",
+          "area": 20.69,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "2-05",
+      "name": "2. épület / 5. lakás",
+      "building": "2",
+      "apartmentNumber": 5,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 36.4,
+      "areaTerrace": 27.22,
+      "areaGarden": null,
+      "price": 68900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#307030",
+      "box": {
+        "objectName": "MG_MASK_2-05",
+        "layer": "MG_MASKS_2_F01",
+        "parentLayer": "MG_MASKS_2",
+        "stagingPositionCm": [
+          46523,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 11,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 11
+      },
+      "roomList": [
+        {
+          "id": "2-05-R01",
+          "name": "Közlekedő",
+          "area": 2.36,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-05-R02",
+          "name": "Zuhanyzó",
+          "area": 3.28,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-05-R03",
+          "name": "Konyha",
+          "area": 4.86,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-05-R04",
+          "name": "Nappali",
+          "area": 15.79,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-05-R05",
+          "name": "Szoba",
+          "area": 10.11,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-05-R06",
+          "name": "Terasz",
+          "area": 27.22,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "2-06",
+      "name": "2. épület / 6. lakás",
+      "building": "2",
+      "apartmentNumber": 6,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 78.6,
+      "areaTerrace": 47.0,
+      "areaGarden": null,
+      "price": 129900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 4,
+      "bedrooms": 3,
+      "layoutLabel": "3 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#307070",
+      "box": {
+        "objectName": "MG_MASK_2-06",
+        "layer": "MG_MASKS_2_F01",
+        "parentLayer": "MG_MASKS_2",
+        "stagingPositionCm": [
+          47623,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 11,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 11
+      },
+      "roomList": [
+        {
+          "id": "2-06-R01",
+          "name": "Közlekedő",
+          "area": 8.31,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-06-R02",
+          "name": "WC",
+          "area": 1.48,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-06-R03",
+          "name": "Fürdő",
+          "area": 4.73,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-06-R04",
+          "name": "Konyha",
+          "area": 7.35,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-06-R05",
+          "name": "Nappali",
+          "area": 22.48,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-06-R06",
+          "name": "Szoba",
+          "area": 11.91,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-06-R07",
+          "name": "Szoba",
+          "area": 11.91,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-06-R08",
+          "name": "Szoba",
+          "area": 10.43,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-06-R09",
+          "name": "Terasz",
+          "area": 23.5,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        },
+        {
+          "id": "2-06-R10",
+          "name": "Terasz",
+          "area": 23.5,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "2-07",
+      "name": "2. épület / 7. lakás",
+      "building": "2",
+      "apartmentNumber": 7,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 36.19,
+      "areaTerrace": 27.23,
+      "areaGarden": null,
+      "price": 69900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#3070F0",
+      "box": {
+        "objectName": "MG_MASK_2-07",
+        "layer": "MG_MASKS_2_F01",
+        "parentLayer": "MG_MASKS_2",
+        "stagingPositionCm": [
+          48723,
+          11000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 11,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 11
+      },
+      "roomList": [
+        {
+          "id": "2-07-R01",
+          "name": "Zuhanyzó",
+          "area": 3.49,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-07-R02",
+          "name": "Konyha",
+          "area": 4.8,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-07-R03",
+          "name": "Nappali",
+          "area": 18.78,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-07-R04",
+          "name": "Szoba",
+          "area": 9.12,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-07-R05",
+          "name": "Terasz",
+          "area": 27.23,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "2-08",
+      "name": "2. épület / 8. lakás",
+      "building": "2",
+      "apartmentNumber": 8,
+      "floor": 2,
+      "floorLabel": "2. emelet",
+      "areaInterior": 99.54,
+      "areaTerrace": 87.99,
+      "areaGarden": null,
+      "price": null,
+      "status": "sold",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 5,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Eladva",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#30B030",
+      "box": {
+        "objectName": "MG_MASK_2-08",
+        "layer": "MG_MASKS_2_F02",
+        "parentLayer": "MG_MASKS_2",
+        "stagingPositionCm": [
+          46523,
+          10000,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 11,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 5,
+        "detailPage": 11
+      },
+      "roomList": [
+        {
+          "id": "2-08-R01",
+          "name": "Előtér",
+          "area": 3.8,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-08-R02",
+          "name": "Közlekedő",
+          "area": 1.87,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-08-R03",
+          "name": "Fürdő",
+          "area": 7.49,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-08-R04",
+          "name": "Zuhanyzó",
+          "area": 3.94,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-08-R05",
+          "name": "Konyha",
+          "area": 11.26,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "2-08-R06",
+          "name": "Nappali",
+          "area": 44.62,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-08-R07",
+          "name": "Szoba",
+          "area": 12.0,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-08-R08",
+          "name": "Szoba",
+          "area": 14.56,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "2-08-R09",
+          "name": "Terasz",
+          "area": 87.99,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-01",
+      "name": "3. épület / 1. lakás",
+      "building": "3",
+      "apartmentNumber": 1,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 67.62,
+      "areaTerrace": 7.5,
+      "areaGarden": 13.29,
+      "price": 99900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#30B0B0",
+      "box": {
+        "objectName": "MG_MASK_3-01",
+        "layer": "MG_MASKS_3_F00",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          33523,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 12,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 12
+      },
+      "roomList": [
+        {
+          "id": "3-01-R01",
+          "name": "Közlekedő",
+          "area": 2.37,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-01-R02",
+          "name": "WC",
+          "area": 1.98,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-01-R03",
+          "name": "Fürdő",
+          "area": 4.14,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-01-R04",
+          "name": "Konyha",
+          "area": 7.65,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-01-R05",
+          "name": "Nappali",
+          "area": 27.8,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-01-R06",
+          "name": "Szoba",
+          "area": 11.43,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-01-R07",
+          "name": "Szoba",
+          "area": 12.25,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-01-R08",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-01-R09",
+          "name": "Kert",
+          "area": 13.29,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-02",
+      "name": "3. épület / 2. lakás",
+      "building": "3",
+      "apartmentNumber": 2,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 51.61,
+      "areaTerrace": 7.5,
+      "areaGarden": 124.07,
+      "price": 83900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#30B0F0",
+      "box": {
+        "objectName": "MG_MASK_3-02",
+        "layer": "MG_MASKS_3_F00",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          34623,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 12,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 12
+      },
+      "roomList": [
+        {
+          "id": "3-02-R01",
+          "name": "Közlekedő",
+          "area": 3.88,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-02-R02",
+          "name": "Fürdő",
+          "area": 5.83,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-02-R03",
+          "name": "Konyha",
+          "area": 10.55,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-02-R04",
+          "name": "Nappali",
+          "area": 19.02,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-02-R05",
+          "name": "Szoba",
+          "area": 12.33,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-02-R06",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-02-R07",
+          "name": "Kert",
+          "area": 124.07,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-03",
+      "name": "3. épület / 3. lakás",
+      "building": "3",
+      "apartmentNumber": 3,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 39.79,
+      "areaTerrace": 9.72,
+      "areaGarden": 31.26,
+      "price": 58900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 1,
+      "bedrooms": 0,
+      "layoutLabel": "0 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#30F030",
+      "box": {
+        "objectName": "MG_MASK_3-03",
+        "layer": "MG_MASKS_3_F00",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          35723,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 12,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 12
+      },
+      "roomList": [
+        {
+          "id": "3-03-R01",
+          "name": "Közlekedő",
+          "area": 1.9,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-03-R02",
+          "name": "Zuhanyzó",
+          "area": 4.46,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-03-R03",
+          "name": "Konyha",
+          "area": 4.18,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-03-R04",
+          "name": "Nappali",
+          "area": 29.25,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-03-R05",
+          "name": "Terasz",
+          "area": 9.72,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-03-R06",
+          "name": "Kert",
+          "area": 31.26,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-04",
+      "name": "3. épület / 4. lakás",
+      "building": "3",
+      "apartmentNumber": 4,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 64.73,
+      "areaTerrace": 7.13,
+      "areaGarden": 64.26,
+      "price": 96900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#30F070",
+      "box": {
+        "objectName": "MG_MASK_3-04",
+        "layer": "MG_MASKS_3_F00",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          36823,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 12,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 12
+      },
+      "roomList": [
+        {
+          "id": "3-04-R01",
+          "name": "Közlekedő",
+          "area": 4.03,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-04-R02",
+          "name": "WC",
+          "area": 1.35,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-04-R03",
+          "name": "Fürdő",
+          "area": 3.99,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-04-R04",
+          "name": "Konyha",
+          "area": 5.4,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-04-R05",
+          "name": "Nappali",
+          "area": 21.4,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-04-R06",
+          "name": "Szoba",
+          "area": 12.88,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-04-R07",
+          "name": "Szoba",
+          "area": 15.68,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-04-R08",
+          "name": "Terasz",
+          "area": 7.13,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-04-R09",
+          "name": "Kert",
+          "area": 64.26,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-05",
+      "name": "3. épület / 5. lakás",
+      "building": "3",
+      "apartmentNumber": 5,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 57.05,
+      "areaTerrace": 10.25,
+      "areaGarden": 48.96,
+      "price": 84900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#30F0B0",
+      "box": {
+        "objectName": "MG_MASK_3-05",
+        "layer": "MG_MASKS_3_F00",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          37923,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 12,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 12
+      },
+      "roomList": [
+        {
+          "id": "3-05-R01",
+          "name": "Közlekedő",
+          "area": 3.19,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-05-R02",
+          "name": "Zuhanyzó",
+          "area": 3.59,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-05-R03",
+          "name": "Fürdő",
+          "area": 4.47,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-05-R04",
+          "name": "Konyha",
+          "area": 4.09,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-05-R05",
+          "name": "Nappali",
+          "area": 18.22,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-05-R06",
+          "name": "Szoba",
+          "area": 11.47,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-05-R07",
+          "name": "Szoba",
+          "area": 12.02,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-05-R08",
+          "name": "Terasz",
+          "area": 10.25,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-05-R09",
+          "name": "Kert",
+          "area": 48.96,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-06",
+      "name": "3. épület / 6. lakás",
+      "building": "3",
+      "apartmentNumber": 6,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 40.95,
+      "areaTerrace": 4.59,
+      "areaGarden": 7.85,
+      "price": 60900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#703030",
+      "box": {
+        "objectName": "MG_MASK_3-06",
+        "layer": "MG_MASKS_3_F00",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          39023,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 12,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 12
+      },
+      "roomList": [
+        {
+          "id": "3-06-R01",
+          "name": "Közlekedő",
+          "area": 2.24,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-06-R02",
+          "name": "Zuhanyzó",
+          "area": 4.08,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-06-R03",
+          "name": "Konyha",
+          "area": 4.59,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-06-R04",
+          "name": "Nappali",
+          "area": 17.62,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-06-R05",
+          "name": "Szoba",
+          "area": 12.42,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-06-R06",
+          "name": "Terasz",
+          "area": 4.59,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-06-R07",
+          "name": "Kert",
+          "area": 7.85,
+          "kind": "exterior",
+          "finish": null,
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-07",
+      "name": "3. épület / 7. lakás",
+      "building": "3",
+      "apartmentNumber": 7,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 75.02,
+      "areaTerrace": 64.32,
+      "areaGarden": null,
+      "price": 124900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 6,
+      "rooms": 4,
+      "bedrooms": 3,
+      "layoutLabel": "3 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#703070",
+      "box": {
+        "objectName": "MG_MASK_3-07",
+        "layer": "MG_MASKS_3_F01",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          33523,
+          5500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 12,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 12
+      },
+      "roomList": [
+        {
+          "id": "3-07-R01",
+          "name": "Közlekedő",
+          "area": 7.09,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-07-R02",
+          "name": "WC",
+          "area": 1.61,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-07-R03",
+          "name": "Fürdő",
+          "area": 5.04,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-07-R04",
+          "name": "Konyha",
+          "area": 4.8,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-07-R05",
+          "name": "Nappali",
+          "area": 21.64,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-07-R06",
+          "name": "Szoba",
+          "area": 9.26,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-07-R07",
+          "name": "Szoba",
+          "area": 12.79,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-07-R08",
+          "name": "Szoba",
+          "area": 12.79,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-07-R09",
+          "name": "Terasz",
+          "area": 42.3,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        },
+        {
+          "id": "3-07-R10",
+          "name": "Terasz",
+          "area": 22.02,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-08",
+      "name": "3. épület / 8. lakás",
+      "building": "3",
+      "apartmentNumber": 8,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 39.47,
+      "areaTerrace": 10.55,
+      "areaGarden": null,
+      "price": 58900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#7030B0",
+      "box": {
+        "objectName": "MG_MASK_3-08",
+        "layer": "MG_MASKS_3_F01",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          34623,
+          5500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 12,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 12
+      },
+      "roomList": [
+        {
+          "id": "3-08-R01",
+          "name": "Közlekedő",
+          "area": 3.04,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-08-R02",
+          "name": "Zuhanyzó",
+          "area": 3.44,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-08-R03",
+          "name": "Konyha",
+          "area": 4.32,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-08-R04",
+          "name": "Nappali",
+          "area": 17.02,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-08-R05",
+          "name": "Szoba",
+          "area": 11.65,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-08-R06",
+          "name": "Terasz",
+          "area": 10.55,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-09",
+      "name": "3. épület / 9. lakás",
+      "building": "3",
+      "apartmentNumber": 9,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 93.47,
+      "areaTerrace": 63.32,
+      "areaGarden": null,
+      "price": 149900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 6,
+      "rooms": 4,
+      "bedrooms": 3,
+      "layoutLabel": "3 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#707070",
+      "box": {
+        "objectName": "MG_MASK_3-09",
+        "layer": "MG_MASKS_3_F01",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          35723,
+          5500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 13,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 13
+      },
+      "roomList": [
+        {
+          "id": "3-09-R01",
+          "name": "Közlekedő",
+          "area": 9.83,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-09-R02",
+          "name": "Zuhanyzó",
+          "area": 5.55,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-09-R03",
+          "name": "Fürdő",
+          "area": 3.83,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-09-R04",
+          "name": "Konyha",
+          "area": 5.84,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-09-R05",
+          "name": "Nappali",
+          "area": 30.67,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-09-R06",
+          "name": "Szoba",
+          "area": 11.68,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-09-R07",
+          "name": "Szoba",
+          "area": 12.88,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-09-R08",
+          "name": "Szoba",
+          "area": 13.19,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-09-R09",
+          "name": "Terasz",
+          "area": 63.32,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-10",
+      "name": "3. épület / 10. lakás",
+      "building": "3",
+      "apartmentNumber": 10,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 40.95,
+      "areaTerrace": 10.71,
+      "areaGarden": null,
+      "price": 60900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#7070B0",
+      "box": {
+        "objectName": "MG_MASK_3-10",
+        "layer": "MG_MASKS_3_F01",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          36823,
+          5500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 13,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 13
+      },
+      "roomList": [
+        {
+          "id": "3-10-R01",
+          "name": "Közlekedő",
+          "area": 2.08,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-10-R02",
+          "name": "Zuhanyzó",
+          "area": 4.24,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-10-R03",
+          "name": "Konyha",
+          "area": 4.59,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-10-R04",
+          "name": "Nappali",
+          "area": 17.62,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-10-R05",
+          "name": "Szoba",
+          "area": 12.42,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-10-R06",
+          "name": "Terasz",
+          "area": 10.71,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-11",
+      "name": "3. épület / 11. lakás",
+      "building": "3",
+      "apartmentNumber": 11,
+      "floor": 2,
+      "floorLabel": "2. emelet",
+      "areaInterior": 40.66,
+      "areaTerrace": 30.44,
+      "areaGarden": null,
+      "price": null,
+      "status": "sold",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Eladva",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#7070F0",
+      "box": {
+        "objectName": "MG_MASK_3-11",
+        "layer": "MG_MASKS_3_F02",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          33523,
+          4500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 13,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 13
+      },
+      "roomList": [
+        {
+          "id": "3-11-R01",
+          "name": "Gardrób",
+          "area": 2.53,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-11-R02",
+          "name": "Zuhanyzó",
+          "area": 3.79,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-11-R03",
+          "name": "Konyha",
+          "area": 5.88,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-11-R04",
+          "name": "Nappali",
+          "area": 17.96,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-11-R05",
+          "name": "Szoba",
+          "area": 10.5,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-11-R06",
+          "name": "Terasz",
+          "area": 30.44,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "3-12",
+      "name": "3. épület / 12. lakás",
+      "building": "3",
+      "apartmentNumber": 12,
+      "floor": 2,
+      "floorLabel": "2. emelet",
+      "areaInterior": 78.32,
+      "areaTerrace": 114.13,
+      "areaGarden": null,
+      "price": null,
+      "status": "sold",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 6,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Eladva",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": null,
+      "maskColor": "#70B030",
+      "box": {
+        "objectName": "MG_MASK_3-12",
+        "layer": "MG_MASKS_3_F02",
+        "parentLayer": "MG_MASKS_3",
+        "stagingPositionCm": [
+          34623,
+          4500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 13,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 13
+      },
+      "roomList": [
+        {
+          "id": "3-12-R01",
+          "name": "Gardrób",
+          "area": 1.8,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-12-R02",
+          "name": "Zuhanyzó",
+          "area": 4.46,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-12-R03",
+          "name": "Fürdő",
+          "area": 5.98,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-12-R04",
+          "name": "Konyha",
+          "area": 14.21,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "3-12-R05",
+          "name": "Nappali",
+          "area": 26.8,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-12-R06",
+          "name": "Szoba",
+          "area": 14.26,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-12-R07",
+          "name": "Szoba",
+          "area": 10.81,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "3-12-R08",
+          "name": "Terasz",
+          "area": 114.13,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-01",
+      "name": "4. ütem / 1. lakás",
+      "building": "4",
+      "apartmentNumber": 1,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 50.86,
+      "areaTerrace": 9.0,
+      "areaGarden": null,
+      "price": 75900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#70B070",
+      "box": {
+        "objectName": "MG_MASK_4-01",
+        "layer": "MG_MASKS_4_F00",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          46523,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 13,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 13
+      },
+      "roomList": [
+        {
+          "id": "4-01-R01",
+          "name": "Előszoba",
+          "area": 2.32,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-01-R02",
+          "name": "WC",
+          "area": 1.64,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-01-R03",
+          "name": "Fürdő",
+          "area": 4.35,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-01-R04",
+          "name": "Konyha",
+          "area": 5.28,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-01-R05",
+          "name": "Nappali",
+          "area": 23.19,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-01-R06",
+          "name": "Szoba",
+          "area": 14.08,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-01-R07",
+          "name": "Terasz",
+          "area": 9.0,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-02",
+      "name": "4. ütem / 2. lakás",
+      "building": "4",
+      "apartmentNumber": 2,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 43.1,
+      "areaTerrace": 8.82,
+      "areaGarden": null,
+      "price": 63900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#70B0F0",
+      "box": {
+        "objectName": "MG_MASK_4-02",
+        "layer": "MG_MASKS_4_F00",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          47623,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 13,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 13
+      },
+      "roomList": [
+        {
+          "id": "4-02-R01",
+          "name": "Előszoba",
+          "area": 3.15,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-02-R02",
+          "name": "Fürdő",
+          "area": 4.5,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-02-R03",
+          "name": "Konyha",
+          "area": 4.86,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-02-R04",
+          "name": "Nappali",
+          "area": 19.19,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-02-R05",
+          "name": "Szoba",
+          "area": 11.4,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-02-R06",
+          "name": "Terasz",
+          "area": 8.82,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-03",
+      "name": "4. ütem / 3. lakás",
+      "building": "4",
+      "apartmentNumber": 3,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 47.74,
+      "areaTerrace": 7.5,
+      "areaGarden": null,
+      "price": 70900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#70F070",
+      "box": {
+        "objectName": "MG_MASK_4-03",
+        "layer": "MG_MASKS_4_F00",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          48723,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 13,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 13
+      },
+      "roomList": [
+        {
+          "id": "4-03-R01",
+          "name": "Előszoba",
+          "area": 3.35,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-03-R02",
+          "name": "WC",
+          "area": 1.89,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-03-R03",
+          "name": "Fürdő",
+          "area": 3.55,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-03-R04",
+          "name": "Konyha",
+          "area": 5.28,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-03-R05",
+          "name": "Nappali",
+          "area": 23.55,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-03-R06",
+          "name": "Szoba",
+          "area": 10.12,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-03-R07",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-04",
+      "name": "4. ütem / 4. lakás",
+      "building": "4",
+      "apartmentNumber": 4,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 84.81,
+      "areaTerrace": 9.0,
+      "areaGarden": null,
+      "price": 124900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 6,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#70F0B0",
+      "box": {
+        "objectName": "MG_MASK_4-04",
+        "layer": "MG_MASKS_4_F00",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          49823,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 13,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 13
+      },
+      "roomList": [
+        {
+          "id": "4-04-R01",
+          "name": "Előszoba",
+          "area": 6.52,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-04-R02",
+          "name": "WC",
+          "area": 2.29,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-04-R03",
+          "name": "Fürdő",
+          "area": 5.61,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-04-R04",
+          "name": "Konyha",
+          "area": 13.18,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-04-R05",
+          "name": "Nappali",
+          "area": 33.86,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-04-R06",
+          "name": "Szoba",
+          "area": 12.04,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-04-R07",
+          "name": "Szoba",
+          "area": 11.31,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-04-R08",
+          "name": "Terasz",
+          "area": 9.0,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-05",
+      "name": "4. ütem / 5. lakás",
+      "building": "4",
+      "apartmentNumber": 5,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 58.61,
+      "areaTerrace": 9.0,
+      "areaGarden": null,
+      "price": 87900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#70F0F0",
+      "box": {
+        "objectName": "MG_MASK_4-05",
+        "layer": "MG_MASKS_4_F00",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          50923,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 14,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 14
+      },
+      "roomList": [
+        {
+          "id": "4-05-R01",
+          "name": "Előszoba",
+          "area": 3.93,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-05-R02",
+          "name": "WC",
+          "area": 1.84,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-05-R03",
+          "name": "Fürdő",
+          "area": 3.64,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-05-R04",
+          "name": "Konyha",
+          "area": 5.4,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-05-R05",
+          "name": "Nappali",
+          "area": 24.28,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-05-R06",
+          "name": "Szoba",
+          "area": 9.13,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-05-R07",
+          "name": "Szoba",
+          "area": 10.39,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-05-R08",
+          "name": "Terasz",
+          "area": 9.0,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-06",
+      "name": "4. ütem / 6. lakás",
+      "building": "4",
+      "apartmentNumber": 6,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 46.19,
+      "areaTerrace": 7.5,
+      "areaGarden": null,
+      "price": 68900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#B03030",
+      "box": {
+        "objectName": "MG_MASK_4-06",
+        "layer": "MG_MASKS_4_F00",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          52023,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 14,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 14
+      },
+      "roomList": [
+        {
+          "id": "4-06-R01",
+          "name": "Előszoba",
+          "area": 2.22,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-06-R02",
+          "name": "Előtér",
+          "area": 1.87,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-06-R03",
+          "name": "Fürdő",
+          "area": 3.38,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-06-R04",
+          "name": "WC",
+          "area": 1.53,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-06-R05",
+          "name": "Konyha",
+          "area": 4.5,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-06-R06",
+          "name": "Nappali",
+          "area": 21.46,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-06-R07",
+          "name": "Szoba",
+          "area": 11.23,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-06-R08",
+          "name": "Terasz",
+          "area": 7.5,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-07",
+      "name": "4. ütem / 7. lakás",
+      "building": "4",
+      "apartmentNumber": 7,
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "areaInterior": 67.56,
+      "areaTerrace": 13.33,
+      "areaGarden": null,
+      "price": 99900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#B030B0",
+      "box": {
+        "objectName": "MG_MASK_4-07",
+        "layer": "MG_MASKS_4_F00",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          53123,
+          6500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 14,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 14
+      },
+      "roomList": [
+        {
+          "id": "4-07-R01",
+          "name": "Gardrób",
+          "area": 7.11,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-07-R02",
+          "name": "WC",
+          "area": 1.53,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-07-R03",
+          "name": "Előtér",
+          "area": 1.62,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-07-R04",
+          "name": "Fürdő",
+          "area": 4.39,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-07-R05",
+          "name": "Konyha",
+          "area": 6.3,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-07-R06",
+          "name": "Nappali",
+          "area": 25.47,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-07-R07",
+          "name": "Szoba",
+          "area": 9.6,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-07-R08",
+          "name": "Szoba",
+          "area": 11.54,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-07-R09",
+          "name": "Terasz",
+          "area": 13.33,
+          "kind": "exterior",
+          "finish": "Kerámia",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-08",
+      "name": "4. ütem / 8. lakás",
+      "building": "4",
+      "apartmentNumber": 8,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 55.43,
+      "areaTerrace": 18.23,
+      "areaGarden": null,
+      "price": 91900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#B030F0",
+      "box": {
+        "objectName": "MG_MASK_4-08",
+        "layer": "MG_MASKS_4_F01",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          46523,
+          5500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 14,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 14
+      },
+      "roomList": [
+        {
+          "id": "4-08-R01",
+          "name": "Előszoba",
+          "area": 2.04,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-08-R02",
+          "name": "WC",
+          "area": 1.69,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-08-R03",
+          "name": "Közlekedő",
+          "area": 1.24,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-08-R04",
+          "name": "Fürdő",
+          "area": 4.55,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-08-R05",
+          "name": "Konyha",
+          "area": 5.69,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-08-R06",
+          "name": "Nappali",
+          "area": 28.47,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-08-R07",
+          "name": "Szoba",
+          "area": 11.75,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-08-R08",
+          "name": "Terasz",
+          "area": 18.23,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-09",
+      "name": "4. ütem / 9. lakás",
+      "building": "4",
+      "apartmentNumber": 9,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 59.91,
+      "areaTerrace": 23.28,
+      "areaGarden": null,
+      "price": 99900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#B07030",
+      "box": {
+        "objectName": "MG_MASK_4-09",
+        "layer": "MG_MASKS_4_F01",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          47623,
+          5500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 14,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 14
+      },
+      "roomList": [
+        {
+          "id": "4-09-R01",
+          "name": "Előszoba",
+          "area": 4.64,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-09-R02",
+          "name": "WC",
+          "area": 1.74,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-09-R03",
+          "name": "Fürdő",
+          "area": 4.42,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-09-R04",
+          "name": "Konyha",
+          "area": 5.97,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-09-R05",
+          "name": "Nappali",
+          "area": 28.74,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-09-R06",
+          "name": "Szoba",
+          "area": 14.4,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-09-R07",
+          "name": "Terasz",
+          "area": 23.28,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-10",
+      "name": "4. ütem / 10. lakás",
+      "building": "4",
+      "apartmentNumber": 10,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 90.27,
+      "areaTerrace": 7.2,
+      "areaGarden": null,
+      "price": 133900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 6,
+      "rooms": 4,
+      "bedrooms": 3,
+      "layoutLabel": "3 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#B07070",
+      "box": {
+        "objectName": "MG_MASK_4-10",
+        "layer": "MG_MASKS_4_F01",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          48723,
+          5500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 14,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 14
+      },
+      "roomList": [
+        {
+          "id": "4-10-R01",
+          "name": "Előszoba",
+          "area": 6.35,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-10-R02",
+          "name": "WC",
+          "area": 1.53,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-10-R03",
+          "name": "Gardrób",
+          "area": 2.35,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-10-R04",
+          "name": "Fürdő",
+          "area": 4.28,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-10-R05",
+          "name": "Konyha",
+          "area": 5.4,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-10-R06",
+          "name": "Nappali",
+          "area": 33.77,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-10-R07",
+          "name": "Szoba",
+          "area": 13.35,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-10-R08",
+          "name": "Szoba",
+          "area": 11.16,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-10-R09",
+          "name": "Szoba",
+          "area": 12.08,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-10-R10",
+          "name": "Terasz",
+          "area": 7.2,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-11",
+      "name": "4. ütem / 11. lakás",
+      "building": "4",
+      "apartmentNumber": 11,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 60.53,
+      "areaTerrace": 8.11,
+      "areaGarden": null,
+      "price": 89900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#B070F0",
+      "box": {
+        "objectName": "MG_MASK_4-11",
+        "layer": "MG_MASKS_4_F01",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          49823,
+          5500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 14,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 14
+      },
+      "roomList": [
+        {
+          "id": "4-11-R01",
+          "name": "Előszoba",
+          "area": 4.2,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-11-R02",
+          "name": "Zuhanyzó",
+          "area": 3.21,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-11-R03",
+          "name": "Fürdő",
+          "area": 5.81,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-11-R04",
+          "name": "Konyha",
+          "area": 5.4,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-11-R05",
+          "name": "Nappali",
+          "area": 21.29,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-11-R06",
+          "name": "Szoba",
+          "area": 10.16,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-11-R07",
+          "name": "Szoba",
+          "area": 10.46,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-11-R08",
+          "name": "Terasz",
+          "area": 8.11,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-12",
+      "name": "4. ütem / 12. lakás",
+      "building": "4",
+      "apartmentNumber": 12,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 46.19,
+      "areaTerrace": 11.1,
+      "areaGarden": null,
+      "price": 68900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#B0B030",
+      "box": {
+        "objectName": "MG_MASK_4-12",
+        "layer": "MG_MASKS_4_F01",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          50923,
+          5500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 14,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 14
+      },
+      "roomList": [
+        {
+          "id": "4-12-R01",
+          "name": "Előszoba",
+          "area": 2.22,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-12-R02",
+          "name": "Előtér",
+          "area": 1.87,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-12-R03",
+          "name": "Fürdő",
+          "area": 3.38,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-12-R04",
+          "name": "WC",
+          "area": 1.53,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-12-R05",
+          "name": "Konyha",
+          "area": 4.5,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-12-R06",
+          "name": "Nappali",
+          "area": 21.46,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-12-R07",
+          "name": "Szoba",
+          "area": 11.23,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-12-R08",
+          "name": "Terasz",
+          "area": 11.1,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-13",
+      "name": "4. ütem / 13. lakás",
+      "building": "4",
+      "apartmentNumber": 13,
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "areaInterior": 57.42,
+      "areaTerrace": 12.15,
+      "areaGarden": null,
+      "price": 85900000,
+      "status": "available",
+      "otthonStartPriceEligible": true,
+      "sourceSchedulePage": 6,
+      "rooms": 2,
+      "bedrooms": 1,
+      "layoutLabel": "1 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#B0B0B0",
+      "box": {
+        "objectName": "MG_MASK_4-13",
+        "layer": "MG_MASKS_4_F01",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          52023,
+          5500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 15,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 15
+      },
+      "roomList": [
+        {
+          "id": "4-13-R01",
+          "name": "Gardrób",
+          "area": 7.32,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-13-R02",
+          "name": "WC",
+          "area": 1.53,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-13-R03",
+          "name": "Előtér",
+          "area": 1.62,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-13-R04",
+          "name": "Fürdő",
+          "area": 4.39,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-13-R05",
+          "name": "Konyha",
+          "area": 5.4,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-13-R06",
+          "name": "Nappali",
+          "area": 25.01,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-13-R07",
+          "name": "Szoba",
+          "area": 12.15,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-13-R08",
+          "name": "Terasz",
+          "area": 12.15,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    },
+    {
+      "id": "4-14",
+      "name": "4. ütem / 14. lakás",
+      "building": "4",
+      "apartmentNumber": 14,
+      "floor": 2,
+      "floorLabel": "Tetőszint",
+      "areaInterior": 84.77,
+      "areaTerrace": 65.79,
+      "areaGarden": null,
+      "price": 144900000,
+      "status": "available",
+      "otthonStartPriceEligible": false,
+      "sourceSchedulePage": 6,
+      "rooms": 3,
+      "bedrooms": 2,
+      "layoutLabel": "2 hálószoba + nappali",
+      "orientation": null,
+      "currency": "HUF",
+      "priceIncludesVat": true,
+      "statusLabel": "Elérhető",
+      "apartmentType": null,
+      "floorplan": null,
+      "note": "Előzetes adatok a 4. ütemhez.",
+      "maskColor": "#B0F030",
+      "box": {
+        "objectName": "MG_MASK_4-14",
+        "layer": "MG_MASKS_4_F02",
+        "parentLayer": "MG_MASKS_4",
+        "stagingPositionCm": [
+          46523,
+          4500,
+          0
+        ],
+        "dimensionsCm": {
+          "width": 1000,
+          "length": 500,
+          "height": 315
+        },
+        "mappingStatus": "unmapped"
+      },
+      "media": {
+        "floorplan": null,
+        "floorLayout": null,
+        "datasheet": {
+          "url": "sources/Mill-Garden-buyer-booklet.pdf",
+          "page": 15,
+          "label": "Vevői füzet - lakásadatok"
+        }
+      },
+      "source": {
+        "schedulePage": 6,
+        "detailPage": 15
+      },
+      "roomList": [
+        {
+          "id": "4-14-R01",
+          "name": "Közlekedő",
+          "area": 9.74,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-14-R02",
+          "name": "Gardrób",
+          "area": 8.75,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-14-R03",
+          "name": "WC",
+          "area": 2.64,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-14-R04",
+          "name": "Fürdő",
+          "area": 5.09,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-14-R05",
+          "name": "Konyha",
+          "area": 14.04,
+          "kind": "interior",
+          "finish": "Kerámia",
+          "planNumber": null
+        },
+        {
+          "id": "4-14-R06",
+          "name": "Nappali",
+          "area": 21.64,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-14-R07",
+          "name": "Szoba",
+          "area": 11.42,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-14-R08",
+          "name": "Szoba",
+          "area": 11.45,
+          "kind": "interior",
+          "finish": "Laminált",
+          "planNumber": null
+        },
+        {
+          "id": "4-14-R09",
+          "name": "Terasz",
+          "area": 65.79,
+          "kind": "exterior",
+          "finish": "Kőlap",
+          "planNumber": null
+        }
+      ]
+    }
+  ],
+  "roomLayouts": {}
+}

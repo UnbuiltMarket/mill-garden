@@ -1,0 +1,1397 @@
+{
+  "schemaVersion": "1.0",
+  "projectId": "mill-garden",
+  "paletteVersion": 1,
+  "encoding": "RGB8",
+  "colorSpace": "sRGB",
+  "backgroundColor": "#000000",
+  "reservedColors": [
+    "#000000",
+    "#FFFFFF"
+  ],
+  "boxDimensionsCm": {
+    "width": 1000,
+    "length": 500,
+    "height": 315
+  },
+  "apartments": [
+    {
+      "id": "1-01",
+      "maskColor": "#F03030",
+      "rgb": [
+        240,
+        48,
+        48
+      ],
+      "building": "1",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_1-01",
+      "layer": "MG_MASKS_1_F00",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        33523,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-02",
+      "maskColor": "#30F0F0",
+      "rgb": [
+        48,
+        240,
+        240
+      ],
+      "building": "1",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_1-02",
+      "layer": "MG_MASKS_1_F00",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        34623,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-03",
+      "maskColor": "#303070",
+      "rgb": [
+        48,
+        48,
+        112
+      ],
+      "building": "1",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_1-03",
+      "layer": "MG_MASKS_1_F00",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        35723,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-04",
+      "maskColor": "#70F030",
+      "rgb": [
+        112,
+        240,
+        48
+      ],
+      "building": "1",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_1-04",
+      "layer": "MG_MASKS_1_F00",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        36823,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-05",
+      "maskColor": "#F070F0",
+      "rgb": [
+        240,
+        112,
+        240
+      ],
+      "building": "1",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_1-05",
+      "layer": "MG_MASKS_1_F00",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        37923,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-06",
+      "maskColor": "#7030F0",
+      "rgb": [
+        112,
+        48,
+        240
+      ],
+      "building": "1",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_1-06",
+      "layer": "MG_MASKS_1_F00",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        39023,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-07",
+      "maskColor": "#B0F0B0",
+      "rgb": [
+        176,
+        240,
+        176
+      ],
+      "building": "1",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_1-07",
+      "layer": "MG_MASKS_1_F00",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        40123,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-08",
+      "maskColor": "#F0B030",
+      "rgb": [
+        240,
+        176,
+        48
+      ],
+      "building": "1",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_1-08",
+      "layer": "MG_MASKS_1_F00",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        41223,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-09",
+      "maskColor": "#30B070",
+      "rgb": [
+        48,
+        176,
+        112
+      ],
+      "building": "1",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_1-09",
+      "layer": "MG_MASKS_1_F00",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        42323,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-10",
+      "maskColor": "#707030",
+      "rgb": [
+        112,
+        112,
+        48
+      ],
+      "building": "1",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_1-10",
+      "layer": "MG_MASKS_1_F00",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        43423,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-11",
+      "maskColor": "#3070B0",
+      "rgb": [
+        48,
+        112,
+        176
+      ],
+      "building": "1",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_1-11",
+      "layer": "MG_MASKS_1_F01",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        33523,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-12",
+      "maskColor": "#70B0B0",
+      "rgb": [
+        112,
+        176,
+        176
+      ],
+      "building": "1",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_1-12",
+      "layer": "MG_MASKS_1_F01",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        34623,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-13",
+      "maskColor": "#B03070",
+      "rgb": [
+        176,
+        48,
+        112
+      ],
+      "building": "1",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_1-13",
+      "layer": "MG_MASKS_1_F01",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        35723,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-14",
+      "maskColor": "#B070B0",
+      "rgb": [
+        176,
+        112,
+        176
+      ],
+      "building": "1",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_1-14",
+      "layer": "MG_MASKS_1_F01",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        36823,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-15",
+      "maskColor": "#B0B070",
+      "rgb": [
+        176,
+        176,
+        112
+      ],
+      "building": "1",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_1-15",
+      "layer": "MG_MASKS_1_F01",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        37923,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-16",
+      "maskColor": "#B0B0F0",
+      "rgb": [
+        176,
+        176,
+        240
+      ],
+      "building": "1",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_1-16",
+      "layer": "MG_MASKS_1_F01",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        39023,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-17",
+      "maskColor": "#F030B0",
+      "rgb": [
+        240,
+        48,
+        176
+      ],
+      "building": "1",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_1-17",
+      "layer": "MG_MASKS_1_F01",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        40123,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-18",
+      "maskColor": "#F07070",
+      "rgb": [
+        240,
+        112,
+        112
+      ],
+      "building": "1",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_1-18",
+      "layer": "MG_MASKS_1_F01",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        41223,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "1-19",
+      "maskColor": "#F0B0B0",
+      "rgb": [
+        240,
+        176,
+        176
+      ],
+      "building": "1",
+      "floor": 2,
+      "floorLabel": "2. emelet",
+      "objectName": "MG_MASK_1-19",
+      "layer": "MG_MASKS_1_F02",
+      "parentLayer": "MG_MASKS_1",
+      "stagingPositionCm": [
+        33523,
+        10000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "2-01",
+      "maskColor": "#F0F070",
+      "rgb": [
+        240,
+        240,
+        112
+      ],
+      "building": "2",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_2-01",
+      "layer": "MG_MASKS_2_F00",
+      "parentLayer": "MG_MASKS_2",
+      "stagingPositionCm": [
+        46523,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "2-02",
+      "maskColor": "#F0F0F0",
+      "rgb": [
+        240,
+        240,
+        240
+      ],
+      "building": "2",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_2-02",
+      "layer": "MG_MASKS_2_F00",
+      "parentLayer": "MG_MASKS_2",
+      "stagingPositionCm": [
+        47623,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "2-03",
+      "maskColor": "#3030B0",
+      "rgb": [
+        48,
+        48,
+        176
+      ],
+      "building": "2",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_2-03",
+      "layer": "MG_MASKS_2_F00",
+      "parentLayer": "MG_MASKS_2",
+      "stagingPositionCm": [
+        48723,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "2-04",
+      "maskColor": "#3030F0",
+      "rgb": [
+        48,
+        48,
+        240
+      ],
+      "building": "2",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_2-04",
+      "layer": "MG_MASKS_2_F00",
+      "parentLayer": "MG_MASKS_2",
+      "stagingPositionCm": [
+        49823,
+        12000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "2-05",
+      "maskColor": "#307030",
+      "rgb": [
+        48,
+        112,
+        48
+      ],
+      "building": "2",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_2-05",
+      "layer": "MG_MASKS_2_F01",
+      "parentLayer": "MG_MASKS_2",
+      "stagingPositionCm": [
+        46523,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "2-06",
+      "maskColor": "#307070",
+      "rgb": [
+        48,
+        112,
+        112
+      ],
+      "building": "2",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_2-06",
+      "layer": "MG_MASKS_2_F01",
+      "parentLayer": "MG_MASKS_2",
+      "stagingPositionCm": [
+        47623,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "2-07",
+      "maskColor": "#3070F0",
+      "rgb": [
+        48,
+        112,
+        240
+      ],
+      "building": "2",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_2-07",
+      "layer": "MG_MASKS_2_F01",
+      "parentLayer": "MG_MASKS_2",
+      "stagingPositionCm": [
+        48723,
+        11000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "2-08",
+      "maskColor": "#30B030",
+      "rgb": [
+        48,
+        176,
+        48
+      ],
+      "building": "2",
+      "floor": 2,
+      "floorLabel": "2. emelet",
+      "objectName": "MG_MASK_2-08",
+      "layer": "MG_MASKS_2_F02",
+      "parentLayer": "MG_MASKS_2",
+      "stagingPositionCm": [
+        46523,
+        10000,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-01",
+      "maskColor": "#30B0B0",
+      "rgb": [
+        48,
+        176,
+        176
+      ],
+      "building": "3",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_3-01",
+      "layer": "MG_MASKS_3_F00",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        33523,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-02",
+      "maskColor": "#30B0F0",
+      "rgb": [
+        48,
+        176,
+        240
+      ],
+      "building": "3",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_3-02",
+      "layer": "MG_MASKS_3_F00",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        34623,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-03",
+      "maskColor": "#30F030",
+      "rgb": [
+        48,
+        240,
+        48
+      ],
+      "building": "3",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_3-03",
+      "layer": "MG_MASKS_3_F00",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        35723,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-04",
+      "maskColor": "#30F070",
+      "rgb": [
+        48,
+        240,
+        112
+      ],
+      "building": "3",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_3-04",
+      "layer": "MG_MASKS_3_F00",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        36823,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-05",
+      "maskColor": "#30F0B0",
+      "rgb": [
+        48,
+        240,
+        176
+      ],
+      "building": "3",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_3-05",
+      "layer": "MG_MASKS_3_F00",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        37923,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-06",
+      "maskColor": "#703030",
+      "rgb": [
+        112,
+        48,
+        48
+      ],
+      "building": "3",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_3-06",
+      "layer": "MG_MASKS_3_F00",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        39023,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-07",
+      "maskColor": "#703070",
+      "rgb": [
+        112,
+        48,
+        112
+      ],
+      "building": "3",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_3-07",
+      "layer": "MG_MASKS_3_F01",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        33523,
+        5500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-08",
+      "maskColor": "#7030B0",
+      "rgb": [
+        112,
+        48,
+        176
+      ],
+      "building": "3",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_3-08",
+      "layer": "MG_MASKS_3_F01",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        34623,
+        5500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-09",
+      "maskColor": "#707070",
+      "rgb": [
+        112,
+        112,
+        112
+      ],
+      "building": "3",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_3-09",
+      "layer": "MG_MASKS_3_F01",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        35723,
+        5500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-10",
+      "maskColor": "#7070B0",
+      "rgb": [
+        112,
+        112,
+        176
+      ],
+      "building": "3",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_3-10",
+      "layer": "MG_MASKS_3_F01",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        36823,
+        5500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-11",
+      "maskColor": "#7070F0",
+      "rgb": [
+        112,
+        112,
+        240
+      ],
+      "building": "3",
+      "floor": 2,
+      "floorLabel": "2. emelet",
+      "objectName": "MG_MASK_3-11",
+      "layer": "MG_MASKS_3_F02",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        33523,
+        4500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "3-12",
+      "maskColor": "#70B030",
+      "rgb": [
+        112,
+        176,
+        48
+      ],
+      "building": "3",
+      "floor": 2,
+      "floorLabel": "2. emelet",
+      "objectName": "MG_MASK_3-12",
+      "layer": "MG_MASKS_3_F02",
+      "parentLayer": "MG_MASKS_3",
+      "stagingPositionCm": [
+        34623,
+        4500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-01",
+      "maskColor": "#70B070",
+      "rgb": [
+        112,
+        176,
+        112
+      ],
+      "building": "4",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_4-01",
+      "layer": "MG_MASKS_4_F00",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        46523,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-02",
+      "maskColor": "#70B0F0",
+      "rgb": [
+        112,
+        176,
+        240
+      ],
+      "building": "4",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_4-02",
+      "layer": "MG_MASKS_4_F00",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        47623,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-03",
+      "maskColor": "#70F070",
+      "rgb": [
+        112,
+        240,
+        112
+      ],
+      "building": "4",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_4-03",
+      "layer": "MG_MASKS_4_F00",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        48723,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-04",
+      "maskColor": "#70F0B0",
+      "rgb": [
+        112,
+        240,
+        176
+      ],
+      "building": "4",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_4-04",
+      "layer": "MG_MASKS_4_F00",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        49823,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-05",
+      "maskColor": "#70F0F0",
+      "rgb": [
+        112,
+        240,
+        240
+      ],
+      "building": "4",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_4-05",
+      "layer": "MG_MASKS_4_F00",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        50923,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-06",
+      "maskColor": "#B03030",
+      "rgb": [
+        176,
+        48,
+        48
+      ],
+      "building": "4",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_4-06",
+      "layer": "MG_MASKS_4_F00",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        52023,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-07",
+      "maskColor": "#B030B0",
+      "rgb": [
+        176,
+        48,
+        176
+      ],
+      "building": "4",
+      "floor": 0,
+      "floorLabel": "Földszint",
+      "objectName": "MG_MASK_4-07",
+      "layer": "MG_MASKS_4_F00",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        53123,
+        6500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-08",
+      "maskColor": "#B030F0",
+      "rgb": [
+        176,
+        48,
+        240
+      ],
+      "building": "4",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_4-08",
+      "layer": "MG_MASKS_4_F01",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        46523,
+        5500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-09",
+      "maskColor": "#B07030",
+      "rgb": [
+        176,
+        112,
+        48
+      ],
+      "building": "4",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_4-09",
+      "layer": "MG_MASKS_4_F01",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        47623,
+        5500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-10",
+      "maskColor": "#B07070",
+      "rgb": [
+        176,
+        112,
+        112
+      ],
+      "building": "4",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_4-10",
+      "layer": "MG_MASKS_4_F01",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        48723,
+        5500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-11",
+      "maskColor": "#B070F0",
+      "rgb": [
+        176,
+        112,
+        240
+      ],
+      "building": "4",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_4-11",
+      "layer": "MG_MASKS_4_F01",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        49823,
+        5500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-12",
+      "maskColor": "#B0B030",
+      "rgb": [
+        176,
+        176,
+        48
+      ],
+      "building": "4",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_4-12",
+      "layer": "MG_MASKS_4_F01",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        50923,
+        5500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-13",
+      "maskColor": "#B0B0B0",
+      "rgb": [
+        176,
+        176,
+        176
+      ],
+      "building": "4",
+      "floor": 1,
+      "floorLabel": "1. emelet",
+      "objectName": "MG_MASK_4-13",
+      "layer": "MG_MASKS_4_F01",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        52023,
+        5500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    },
+    {
+      "id": "4-14",
+      "maskColor": "#B0F030",
+      "rgb": [
+        176,
+        240,
+        48
+      ],
+      "building": "4",
+      "floor": 2,
+      "floorLabel": "Tetőszint",
+      "objectName": "MG_MASK_4-14",
+      "layer": "MG_MASKS_4_F02",
+      "parentLayer": "MG_MASKS_4",
+      "stagingPositionCm": [
+        46523,
+        4500,
+        0
+      ],
+      "dimensionsCm": {
+        "width": 1000,
+        "length": 500,
+        "height": 315
+      },
+      "mappingStatus": "unmapped"
+    }
+  ]
+}
